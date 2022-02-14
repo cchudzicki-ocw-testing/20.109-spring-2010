@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 3, Day 5: Transcript-Level Analysis'
+parent_type: CourseSection
 resourcetype: Image
 title: m3d5_fig2b.jpg
+type: OCWImage
 uid: 044d4b65-8996-d36a-9d79-7fb767b3b79a
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 1, Day 7: Results'
+parent_type: CourseSection
 resourcetype: Image
 title: link_graphs.gif
+type: OCWImage
 uid: 3562b8fd-6bd1-22e3-cff2-42e0af42b400
 ---

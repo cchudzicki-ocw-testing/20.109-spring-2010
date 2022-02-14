@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 3, Day 3: Testing Cell Viability'
+parent_type: CourseSection
 resourcetype: Image
 title: m3d3_result2_new.jpg
+type: OCWImage
 uid: 291b9c5b-f674-14a9-48d1-b0d46689b921
 ---

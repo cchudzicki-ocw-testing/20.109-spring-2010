@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 2, Day 3: Bacterial Amplification of DNA'
+parent_type: CourseSection
 resourcetype: Image
 title: m2d3_fig2b.jpg
+type: OCWImage
 uid: 5155fe6a-4848-10c1-124e-e315331b6d68
 ---

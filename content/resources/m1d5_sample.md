@@ -8,7 +8,11 @@ image_metadata:
   credit: ''
   image-alt: Photo of electrophoresis gel with ladders of individual lines in lanes
     1 and 10, and a bright single line in lanes 2 through 7.
+learning_resource_types: []
+parent_title: 'Module 1, Day 5: RNA to DNA by RT-PCR'
+parent_type: CourseSection
 resourcetype: Image
 title: m1d5_sample.jpg
+type: OCWImage
 uid: fafb8d0a-137d-e94f-466e-aac840a7377e
 ---

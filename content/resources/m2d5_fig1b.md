@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
+parent_type: CourseSection
 resourcetype: Image
 title: m2d5_fig1b.jpg
+type: OCWImage
 uid: a12bea1a-a036-52f5-cb08-c053b5f31d5b
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 3, Day 4: Preparing Cells for Analysis'
+parent_type: CourseSection
 resourcetype: Image
 title: m3d4_fig1.jpg
+type: OCWImage
 uid: fdb852cb-6cf2-1949-89e2-73cea049f8b8
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 1, Day 2: Purify Aptamer-Encoding DNA'
+parent_type: CourseSection
 resourcetype: Image
 title: m1d2_fig2.jpg
+type: OCWImage
 uid: 08c7e896-8f30-cb4d-e6fc-a1f03194feeb
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 2, Day 8: Data Analysis'
+parent_type: CourseSection
 resourcetype: Image
 title: m2d8_fig1a.jpg
+type: OCWImage
 uid: f79896d3-681a-96c8-a930-212bd34ec4e8
 ---

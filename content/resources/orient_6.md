@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Lab Orientation
+parent_type: CourseSection
 resourcetype: Image
 title: orient_6.jpg
+type: OCWImage
 uid: 07674fc0-cdf1-5630-6e57-1f444f1c0c9b
 ---

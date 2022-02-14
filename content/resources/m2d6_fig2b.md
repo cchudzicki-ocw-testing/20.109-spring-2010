@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 2, Day 6: Characterize Protein Expression'
+parent_type: CourseSection
 resourcetype: Image
 title: m2d6_fig2b.jpg
+type: OCWImage
 uid: 43986848-68b8-8677-53aa-48a6165fa8b4
 ---

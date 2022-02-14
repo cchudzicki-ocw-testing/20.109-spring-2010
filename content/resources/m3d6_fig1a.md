@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 3, Day 6: Protein-Level Analysis'
+parent_type: CourseSection
 resourcetype: Image
 title: m3d6_fig1a.jpg
+type: OCWImage
 uid: 66c1f2a1-0ba1-a1ee-366d-136814944288
 ---

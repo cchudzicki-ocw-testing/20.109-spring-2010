@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Photo of a blue-stained electrophoresis gel.
+learning_resource_types: []
+parent_title: 'Module 2, Day 6: Characterize Protein Expression'
+parent_type: CourseSection
 resourcetype: Image
 title: m2d6_result.jpg
+type: OCWImage
 uid: 459ddce7-0eda-067e-b43f-1674e27766b8
 ---

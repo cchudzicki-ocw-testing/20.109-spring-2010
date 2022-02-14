@@ -8,7 +8,11 @@ image_metadata:
   credit: ''
   image-alt: Graph of absorbance vs. wavelength for five different assays, showing
     increasing absorbance to a peak in the range from 395 nm to 405 nm.
+learning_resource_types: []
+parent_title: 'Module 1, Day 7: Results'
+parent_type: CourseSection
 resourcetype: Image
 title: tr_blue_raw.gif
+type: OCWImage
 uid: f8a3f156-e21c-09f6-2d9c-6a24a184b381
 ---

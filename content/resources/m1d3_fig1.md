@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 1, Day 3: Prepare RNA by IVT'
+parent_type: CourseSection
 resourcetype: Image
 title: m1d3_fig1.jpg
+type: OCWImage
 uid: 695edab6-25d2-9f93-ed6a-747bad3d5b58
 ---

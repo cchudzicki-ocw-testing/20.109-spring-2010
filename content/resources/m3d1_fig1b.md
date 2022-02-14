@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 3, Day 1: Start-Up Biomaterials Engineering'
+parent_type: CourseSection
 resourcetype: Image
 title: m3d1_fig1b.jpg
+type: OCWImage
 uid: 5f1fde71-4258-404f-f61b-4840f3d09fd1
 ---

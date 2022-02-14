@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 1, Day 4: Purify RNA and Run Affinity Column'
+parent_type: CourseSection
 resourcetype: Image
 title: m1d4_fig1.jpg
+type: OCWImage
 uid: 73f27b15-1f57-3bc0-f29c-6fe555434fa8
 ---

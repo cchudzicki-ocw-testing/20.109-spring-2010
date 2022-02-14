@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: 'Module 2, Day 1: Start-Up Protein Engineering'
+parent_type: CourseSection
 resourcetype: Image
 title: m2d1_fig1.jpg
+type: OCWImage
 uid: 5e2eed7f-4a53-ba1e-9152-1adb617f10fb
 ---
