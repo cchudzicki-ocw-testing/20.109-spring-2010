@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_lec_intro.pdf
-type: OCWFile
 uid: 851b0f7c-2b27-f140-3d1f-704eead3fef8
 ---

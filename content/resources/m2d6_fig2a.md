@@ -12,6 +12,5 @@ parent_title: 'Module 2, Day 6: Characterize Protein Expression'
 parent_type: CourseSection
 resourcetype: Image
 title: m2d6_fig2a.jpg
-type: OCWImage
 uid: c5a36638-249b-327d-9b0e-e32a64ba9f9c
 ---

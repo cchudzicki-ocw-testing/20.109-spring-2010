@@ -5,7 +5,6 @@ parent_title: 'Module 2, Day 1: Start-Up Protein Engineering'
 parent_type: CourseSection
 parent_uid: 8f241b98-5c89-b697-aa6c-acb092a600c2
 title: 'Module 2, Day 1: Start-Up Protein Engineering - Results'
-type: CourseSection
 uid: 9c40b4ad-50ec-633d-6bc5-98a28fda304f
 ---
 

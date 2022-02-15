@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 7: Wrap-Up Analysis'
-type: CourseSection
 uid: 5f8e672f-9f42-ac26-3579-a568a4d379d1
 ---
 

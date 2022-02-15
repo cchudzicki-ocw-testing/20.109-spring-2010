@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: Lab Orientation
-type: CourseSection
 uid: 84e8174c-592f-f934-08b5-8921e05ba894
 ---
 

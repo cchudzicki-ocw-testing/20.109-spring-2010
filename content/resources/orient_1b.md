@@ -12,6 +12,5 @@ parent_title: Lab Orientation
 parent_type: CourseSection
 resourcetype: Image
 title: orient_1b.jpg
-type: OCWImage
 uid: c5c3bd1f-40da-1ebc-50a8-ccbf742f2ab4
 ---

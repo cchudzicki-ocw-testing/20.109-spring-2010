@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 6: Post-selection IVT and Journal Club'
-type: CourseSection
 uid: e22f2979-02d0-a74e-610c-22f87f1c3eac
 ---
 

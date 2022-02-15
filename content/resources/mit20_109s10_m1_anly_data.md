@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: MIT20_109S10_m1_anly_data.rtf
-type: OCWFile
 uid: 7d17e7c5-8e69-72fa-a7b2-0ee6b7872828
 ---

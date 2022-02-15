@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 3: Bacterial Amplification of DNA'
-type: CourseSection
 uid: 080f3ca5-b66b-7f32-2240-25c3a1fd5acc
 ---
 

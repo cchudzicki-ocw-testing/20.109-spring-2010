@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'TA notes for Lab Module 1: RNA Engineering'
-type: CourseSection
 uid: d6824c94-8959-a4ec-b5b3-a6ce9cdcde6d
 ---
 

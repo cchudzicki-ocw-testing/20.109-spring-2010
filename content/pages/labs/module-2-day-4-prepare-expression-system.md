@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 4: Prepare Expression System'
-type: CourseSection
 uid: ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f
 ---
 

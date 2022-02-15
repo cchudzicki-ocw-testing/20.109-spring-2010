@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_lec_m3d7_w.pdf
-type: OCWFile
 uid: 66e0d367-f8ad-04c5-98a1-a40318d22820
 ---

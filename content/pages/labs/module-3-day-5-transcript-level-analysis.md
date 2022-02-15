@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 5: Transcript-Level Analysis'
-type: CourseSection
 uid: 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d
 ---
 

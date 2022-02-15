@@ -6,7 +6,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 2 Assignment: Protein Engineering Research Article'
-type: CourseSection
 uid: 0e9b5740-ff56-87e3-742a-f3a2e5ce3883
 ---
 

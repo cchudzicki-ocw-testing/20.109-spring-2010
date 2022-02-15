@@ -12,6 +12,5 @@ parent_title: 'Module 2, Day 1: Start-Up Protein Engineering'
 parent_type: CourseSection
 resourcetype: Image
 title: m2d1_fig2.jpg
-type: OCWImage
 uid: bb26f46c-5253-2b79-8f7f-4a57a59ff7be
 ---

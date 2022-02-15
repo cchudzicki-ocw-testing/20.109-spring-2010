@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 8: Data Analysis'
-type: CourseSection
 uid: d9bfa075-4ac8-ea99-8914-f82c9edfb492
 ---
 

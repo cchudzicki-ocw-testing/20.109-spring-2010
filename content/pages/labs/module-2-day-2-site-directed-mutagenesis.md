@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 2: Site-Directed Mutagenesis'
-type: CourseSection
 uid: 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0
 ---
 

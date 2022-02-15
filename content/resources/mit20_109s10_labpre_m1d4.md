@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_labpre_m1d4.pdf
-type: OCWFile
 uid: d58d9787-8bd3-a59f-8f76-fa6ad413c5b8
 ---

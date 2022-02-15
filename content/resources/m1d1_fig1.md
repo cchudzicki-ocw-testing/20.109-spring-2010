@@ -17,6 +17,5 @@ parent_title: 'Module 1, Day 1: Amplify Aptamer-Encoding DNA'
 parent_type: CourseSection
 resourcetype: Image
 title: PCR schematic
-type: OCWImage
 uid: 61889242-e6f7-5d69-47c2-be06a35917d7
 ---

@@ -12,6 +12,5 @@ parent_title: 'Module 2, Day 4: Prepare Expression System'
 parent_type: CourseSection
 resourcetype: Image
 title: m2d4_fig2_1.gif
-type: OCWImage
 uid: 322807db-1708-fc22-5670-30235d912b3b
 ---

@@ -8,6 +8,5 @@ parent_title: 'Module 1, Day 7: Aptamer Binding Assay'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_syll_self.pdf
-type: OCWFile
 uid: 147be606-92a6-eb58-a17e-f77c7ef27e8b
 ---

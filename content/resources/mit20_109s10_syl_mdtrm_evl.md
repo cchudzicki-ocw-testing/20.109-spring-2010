@@ -8,6 +8,5 @@ parent_title: 'Module 2, Day 4: Prepare Expression System'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_syl_mdtrm_evl.pdf
-type: OCWFile
 uid: e5e31a76-df54-6fed-6f79-5e22d6599bd0
 ---

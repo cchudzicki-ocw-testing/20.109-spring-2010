@@ -13,6 +13,5 @@ parent_title: 'Module 1, Day 7: Results'
 parent_type: CourseSection
 resourcetype: Image
 title: wf_red_rawdata.gif
-type: OCWImage
 uid: 3947d9d0-b506-80d6-e576-6ba68accb1dd
 ---

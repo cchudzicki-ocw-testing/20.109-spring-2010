@@ -12,6 +12,5 @@ parent_title: 'Module 2, Day 7: Assay Protein Behavior'
 parent_type: CourseSection
 resourcetype: Image
 title: m2d7_fig2.jpg
-type: OCWImage
 uid: 5800824c-0ac2-4f11-ef4c-e42b6ded9e22
 ---

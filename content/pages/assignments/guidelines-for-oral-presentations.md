@@ -6,7 +6,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: Guidelines for Oral Presentations
-type: CourseSection
 uid: c054e983-55c4-7571-51ab-8f1efea6beb0
 ---
 

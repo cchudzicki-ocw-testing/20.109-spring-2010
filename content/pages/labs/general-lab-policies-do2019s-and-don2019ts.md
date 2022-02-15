@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: General Lab Policies, Do's and Don'ts
-type: CourseSection
 uid: 714642be-45a1-d5f4-6345-5094456059c8
 ---
 

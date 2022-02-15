@@ -5,7 +5,6 @@ parent_title: Syllabus
 parent_type: CourseSection
 parent_uid: a6ec7e7b-eb02-335c-e9f0-c5edead15c65
 title: 'OpenWetWare Use in 20.109 '
-type: CourseSection
 uid: 5039894a-fa2c-382c-824c-e781f889cc0b
 ---
 

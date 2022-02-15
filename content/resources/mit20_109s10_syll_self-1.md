@@ -8,6 +8,5 @@ parent_title: 'Module 2, Day 8: Data Analysis'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_syll_self.pdf
-type: OCWFile
 uid: ec8c027e-bf85-0e8b-f1bd-c4547714fba3
 ---

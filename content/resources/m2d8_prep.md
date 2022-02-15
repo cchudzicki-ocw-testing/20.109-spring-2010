@@ -8,6 +8,5 @@ parent_title: 'Module 2, Day 8: Data Analysis'
 parent_type: CourseSection
 resourcetype: Other
 title: m2d8_prep.zip
-type: OCWFile
 uid: 2fe00281-e3e2-975c-6d76-a898f2446ca0
 ---

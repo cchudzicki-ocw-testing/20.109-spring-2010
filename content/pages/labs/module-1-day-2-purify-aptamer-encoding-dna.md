@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 2: Purify Aptamer-Encoding DNA'
-type: CourseSection
 uid: 52bbd0a9-989c-ea78-b8db-094bc1580980
 ---
 

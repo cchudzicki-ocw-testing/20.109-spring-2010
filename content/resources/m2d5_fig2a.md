@@ -12,6 +12,5 @@ parent_title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 parent_type: CourseSection
 resourcetype: Image
 title: m2d5_fig2a.jpg
-type: OCWImage
 uid: 8ea9cf0e-2b42-0abf-e08a-5e0d6cdd50d0
 ---

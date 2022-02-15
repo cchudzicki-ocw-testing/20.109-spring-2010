@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 5: RNA to DNA by RT-PCR'
-type: CourseSection
 uid: e11e968b-82aa-fefc-994a-6731a910335d
 ---
 

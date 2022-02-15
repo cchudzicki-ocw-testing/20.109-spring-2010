@@ -6,7 +6,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 1 Assignment: RNA Engineering Laboratory Report'
-type: CourseSection
 uid: b51163eb-3d06-d776-ae5a-b5f8349c22d4
 ---
 

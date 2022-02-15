@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_syll_self.pdf
-type: OCWFile
 uid: 3db4a798-e252-e816-ea92-d0d85e468a74
 ---

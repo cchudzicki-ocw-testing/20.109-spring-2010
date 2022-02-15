@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 7: Assay Protein Behavior'
-type: CourseSection
 uid: 7e3077c4-fdbc-7693-27b3-9a99e5bf2125
 ---
 

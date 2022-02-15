@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Labs
 title: Labs
-type: CourseSection
 uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 ---
 

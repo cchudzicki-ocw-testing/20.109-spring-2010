@@ -8,6 +8,5 @@ parent_title: Lab Orientation
 parent_type: CourseSection
 resourcetype: Other
 title: orientation_sampledata.xlsx
-type: OCWFile
 uid: 5ec9aa34-33ae-9788-7d75-dc746384eaba
 ---

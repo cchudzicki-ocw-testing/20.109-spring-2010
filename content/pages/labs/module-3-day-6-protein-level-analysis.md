@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 6: Protein-Level Analysis'
-type: CourseSection
 uid: f82c52d5-f03d-5172-9e51-338ebfdc2fc4
 ---
 

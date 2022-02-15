@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 3: Prepare RNA by IVT'
-type: CourseSection
 uid: 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870
 ---
 

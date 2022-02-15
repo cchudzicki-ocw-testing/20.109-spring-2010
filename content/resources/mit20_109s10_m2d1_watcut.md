@@ -8,6 +8,5 @@ parent_title: 'Module 2, Day 1: Start-Up Protein Engineering'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_m2d1_watcut.pdf
-type: OCWFile
 uid: fce7f13b-c2a8-16e0-c781-fd434735b5a5
 ---

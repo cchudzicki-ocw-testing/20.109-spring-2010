@@ -13,6 +13,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Image
 title: labs_m1_fig1.jpg
-type: OCWImage
 uid: d6cf9db1-840b-790f-a496-1a103d1291e4
 ---

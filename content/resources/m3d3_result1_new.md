@@ -12,6 +12,5 @@ parent_title: 'Module 3, Day 3: Testing Cell Viability'
 parent_type: CourseSection
 resourcetype: Image
 title: m3d3_result1_new.jpg
-type: OCWImage
 uid: aef2611b-2102-4a39-01af-74fab48c8cb6
 ---

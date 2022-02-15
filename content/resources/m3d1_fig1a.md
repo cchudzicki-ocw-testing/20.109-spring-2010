@@ -12,6 +12,5 @@ parent_title: 'Module 3, Day 1: Start-Up Biomaterials Engineering'
 parent_type: CourseSection
 resourcetype: Image
 title: m3d1_fig1a.jpg
-type: OCWImage
 uid: 47290f4f-1088-2d76-bdea-4fc38d316115
 ---

@@ -12,6 +12,5 @@ parent_title: 'Module 1, Day 1: Amplify Aptamer-Encoding DNA'
 parent_type: CourseSection
 resourcetype: Image
 title: kary_mullins.jpg
-type: OCWFile
 uid: 7781a25f-6ee2-113f-7cb1-77cbae7e755f
 ---

@@ -12,6 +12,5 @@ parent_title: 'Module 2, Day 8: Data Analysis'
 parent_type: CourseSection
 resourcetype: Image
 title: m2d8_eq1.jpg
-type: OCWImage
 uid: 601e19ed-2a5b-0371-2a20-719fda14241c
 ---

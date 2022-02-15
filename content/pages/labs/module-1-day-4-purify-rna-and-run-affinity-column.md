@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 4: Purify RNA and Run Affinity Column'
-type: CourseSection
 uid: 6bee5b41-a34d-cb2b-7923-c9303daa44b8
 ---
 

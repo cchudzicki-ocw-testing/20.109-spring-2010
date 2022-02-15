@@ -6,7 +6,6 @@ parent_title: Labs
 parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 3: Testing Cell Viability'
-type: CourseSection
 uid: a6ef5fb5-bb91-ae11-a408-6647172e10b5
 ---
 
