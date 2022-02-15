@@ -9,6 +9,7 @@ image_metadata:
   image-alt: 'Graph of four curves, showing shifting peak from 396 to 405 nm, and
     peak magnitude growing from 0.27 to 0.38. '
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Module 1, Day 5: RNA to DNA by RT-PCR'
 parent_type: CourseSection
 resourcetype: Image

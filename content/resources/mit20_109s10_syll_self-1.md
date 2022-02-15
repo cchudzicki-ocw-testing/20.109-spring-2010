@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/ec8c027ebf850e8bf1bdc4547714fba3_MIT20_109S10_syll_self.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Module 2, Day 8: Data Analysis'
 parent_type: CourseSection
 resourcetype: Document

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Module 2, Day 2: Site-Directed Mutagenesis'
 parent_type: CourseSection
 resourcetype: Image

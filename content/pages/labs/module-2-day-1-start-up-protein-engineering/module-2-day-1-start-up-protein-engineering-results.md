@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Module 2, Day 1: Start-Up Protein Engineering'
 parent_type: CourseSection
 parent_uid: 8f241b98-5c89-b697-aa6c-acb092a600c2

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of an electrophoresis gel with several ladders of bright lines.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 parent_type: CourseSection
 resourcetype: Image

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: 'Module 1, Day 4: Purify RNA and Run Affinity Column'
 parent_type: CourseSection
 resourcetype: Image

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Labs
+ocw_type: OCWImage
 parent_title: Labs
 parent_type: CourseSection
 resourcetype: Image

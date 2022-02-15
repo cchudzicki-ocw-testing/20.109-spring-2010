@@ -5,6 +5,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-109-labor
 file_type: application/rtf
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other

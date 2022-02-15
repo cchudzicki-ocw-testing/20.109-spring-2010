@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'fModule 3, Day 2: Initiate Cell Culture'
 parent_type: CourseSection
 resourcetype: Image
