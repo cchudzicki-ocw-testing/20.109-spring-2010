@@ -10,7 +10,7 @@ title: 'Module 3, Day 3: Testing Cell Viability'
 uid: a6ef5fb5-bb91-ae11-a408-6647172e10b5
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-2-initiate-cell-culture) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis) >
+\< {{< resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Previous lab day" >}} | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | {{< resource_link 9f1add66-0448-ffba-794a-48d70e4c97b2 "Next lab day" >}} >
 
 Introduction
 ------------

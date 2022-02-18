@@ -59,7 +59,7 @@ Today you will analyze the fluorescence data that you got last time. Begin by an
 
 1.  Open an Excel file for your data analysis. Begin by making a column of the free calcium concentrations present in your twelve test solutions. Assuming a 1:1 dilution of protein with calcium, the concentrations are: 10 nM, 50 nM, 100 nM, 200 nM, 400 nM, 500 nM, 600 nM, 800 nM, 1 μM, 2.5 μM, 10 μM, 100 μM. Be sure to convert all concentrations to the same units.
 2.  Now open the text file containing your raw data as a tab-delimited file in Excel.
-    *   Samples of calcium titration data for four student lab groups; includes one optional repeat (T/R Blue group) after 24 hour settling period ([ZIP]({{< baseurl >}}/resources/m2d8_data)).
+    *   Samples of calcium titration data for four student lab groups; includes one optional repeat (T/R Blue group) after 24 hour settling period ({{< resource_link 5b22bbd0-4218-c4a9-0450-ac4a568b4cb9 "ZIP" >}}).
 3.  Convert the row-wise data to column-wise data (using _Paste Special → Transpose_), and transfer each column to your analysis file. Add column headers to indicate which protein is which, and analyze each replicate separately for now. Also include a column of your control samples that did not contain protein.
 4.  Begin by calculating the average of your blank samples, and bold this number for easy reference. It is the background fluorescence present in the calcium solutions and should be quite low. If necessary, subtract this background value from each of your raw data values. It may help to have a 6-column series called "RAW", and another called "SUBTRACTED."
 5.  Next you should normalize your data. The maximum and minimum fluorescence values for a given titration series should be defined as 100% and 0% fluorescence, respectively, and every other fluorescence value should be expressed as a percentage in between. Think about how to mathematically express these conditions.
@@ -73,7 +73,7 @@ Today you will analyze the fluorescence data that you got last time. Begin by an
 
 **Preparation**
 
-1.  Download these MATLAB files ([ZIP]({{< baseurl >}}/resources/m2d8_prep)) (This ZIP file contains: 3 .m files.). Move them to the username/Documents/MATLAB folder on your PC.
+1.  Download these MATLAB files ({{< resource_link 2fe00281-e3e2-975c-6d76-a898f2446ca0 "ZIP" >}}) (This ZIP file contains: 3 .m files.). Move them to the username/Documents/MATLAB folder on your PC.
 2.  Double-click on the MATLAB icon to start up this software.
 3.  The main window that opens is called the command window: here is where you run programs (or directly input commands) and view outputs. You can also see and access the command history, workspace, and current directory windows, but you likely won't need to today.
 4.  In the command window, type _more on_; this command allows you to scroll through multi-page output (using the spacebar), such as help files.
@@ -105,7 +105,7 @@ Today you will analyze the fluorescence data that you got last time. Begin by an
     *   Why should only the transition region be analyzed in a Hill plot?
     *   What is the relationship between slope and _K{{< sub "D" >}}_ and/or _n_, and intercept and _K{{< sub "D" >}}_ and/or _n_?
 4.  If your mutant proteins are not well-described by any of the models so far, what kind of model(s) (qualitatively speaking) do you think might be useful?
-    *   Optional: If your data might be well-described by a model with two _K{{< sub "D" >}}_'s (or if you are interesting in exploring some sample data that is), download and run these two MATLAB files ([ZIP]({{< baseurl >}}/resources/m2d8_2kd)) (This ZIP file contains: 2 .m files.)
+    *   Optional: If your data might be well-described by a model with two _K{{< sub "D" >}}_'s (or if you are interesting in exploring some sample data that is), download and run these two MATLAB files ({{< resource_link cb4e51d7-48dd-a4ff-7c94-16e8e057b27e "ZIP" >}}) (This ZIP file contains: 2 .m files.)
 
 Following are the analysis results from the four lab groups for whom raw titration data data was supplied above.
 
@@ -240,6 +240,6 @@ We used the model 2 data, since it have smaller residual values, and it best mat
 For Next Time
 -------------
 
-1.  The first draft of your [research article]({{< baseurl >}}/pages/assignments/module-2-assignment-protein-engineering-research-article) is due by 11 a.m. on your next lab day.
-2.  Your second self-assessment ([PDF]({{< baseurl >}}/resources/mit20_109s10_syll_self-1)) is due in lab on Day 1 of Module 3.
+1.  The first draft of your {{< resource_link 0e9b5740-ff56-87e3-742a-f3a2e5ce3883 "research article" >}} is due by 11 a.m. on your next lab day.
+2.  Your second self-assessment ({{< resource_link ec8c027e-bf85-0e8b-f1bd-c4547714fba3 "PDF" >}}) is due in lab on Day 1 of Module 3.
 3.  Shortly before class next time, you should read the 20.109 Guidelines for working in the tissue culture facility. We will have also a presentation from MIT's Environmental Health and Safety Office to help prepare you for doing cell cultures next week.

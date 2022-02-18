@@ -10,7 +10,7 @@ title: 'Module 3, Day 5: Transcript-Level Analysis'
 uid: 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) >
+\< {{< resource_link 9f1add66-0448-ffba-794a-48d70e4c97b2 "Previous lab day" >}} | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | {{< resource_link f82c52d5-f03d-5172-9e51-338ebfdc2fc4 "Next lab day" >}} >
 
 Introduction
 ------------
@@ -371,7 +371,7 @@ Your goal for this section will be to compare the effort required for, and the r
 
 Once you have cell counts (whether automated or manual) that you are happy with, you can practice doing some basic statistical analysis.
 
-1.  Begin by this Excel file ([XLS]({{< baseurl >}}/resources/mit20_109s10_m3d5_stats)) as a framework to carry out the basic statistical manipulations we discussed in Lecture 3. The file is modified from original by Bevin Engelward. Used with permission.
+1.  Begin by this Excel file ({{< resource_link 873cebab-d6c2-499a-c4a0-a47cd76f85f8 "XLS" >}}) as a framework to carry out the basic statistical manipulations we discussed in Lecture 3. The file is modified from original by Bevin Engelward. Used with permission.
 2.  Find and plot 95% confidence intervals for the live cell counts and/or live cell percentage for each of your two samples.
     *   What are the advantages and disadvantages of looking at counts versus percentages? In what situations would looking at counts be misleading?
 3.  Compare the means (count and/or percentage) of your two samples. At what confidence level (if any) are they different?
@@ -379,7 +379,7 @@ Once you have cell counts (whether automated or manual) that you are happy with,
 For Next Time
 -------------
 
-The final draft of your [Module 2 research article]({{< baseurl >}}/pages/assignments/module-2-assignment-protein-engineering-research-article) is due at the start of the next class lecture period.
+The final draft of your {{< resource_link 0e9b5740-ff56-87e3-742a-f3a2e5ce3883 "Module 2 research article" >}} is due at the start of the next class lecture period.
 
 Reagent List
 ------------

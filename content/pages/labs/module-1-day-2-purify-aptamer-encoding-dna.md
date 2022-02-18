@@ -10,7 +10,7 @@ title: 'Module 1, Day 2: Purify Aptamer-Encoding DNA'
 uid: 52bbd0a9-989c-ea78-b8db-094bc1580980
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-1-amplify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) >
+\< {{< resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Previous lab day" >}} | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | {{< resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Next lab day" >}} >
 
 Introduction
 ------------
@@ -185,7 +185,7 @@ To purify your DNA from the agarose, you will use a kit from the Qiagen company.
 For Next Time
 -------------
 
-1.  You will write up the work you do in Module 1 in a formal lab report, per the [Guidelines for Writing Up Your Research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research). To help you pace your work, as well as give you feedback early on, you will be required to draft small portions of the report as homework assignments. For next time, you should write an early draft of your Materials and Methods: on PCR, gel electrophoresis, and DNA purification. Be sure to read the Methods section of the Guidelines before you begin.
+1.  You will write up the work you do in Module 1 in a formal lab report, per the {{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for Writing Up Your Research" >}}. To help you pace your work, as well as give you feedback early on, you will be required to draft small portions of the report as homework assignments. For next time, you should write an early draft of your Materials and Methods: on PCR, gel electrophoresis, and DNA purification. Be sure to read the Methods section of the Guidelines before you begin.
 2.  Finish preparing for the journal article discussion we will have next time.
 
 Reagent List

@@ -10,7 +10,7 @@ title: 'Module 1, Day 4: Purify RNA and Run Affinity Column'
 uid: 6bee5b41-a34d-cb2b-7923-c9303daa44b8
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-5-rna-to-dna-by-rt-pcr) >
+\< {{< resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Previous lab day" >}} | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | {{< resource_link e11e968b-82aa-fefc-994a-6731a910335d "Next lab day" >}} >
 
 Introduction
 ------------

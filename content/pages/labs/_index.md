@@ -39,9 +39,9 @@ COMMUNICATING YOUR WORK
 {{< tdopen >}}
 
 
-[General lab policies, do's and don'ts]({{< baseurl >}}/pages/labs/general-lab-policies-do2019s-and-don2019ts)
+{{< resource_link 714642be-45a1-d5f4-6345-5094456059c8 "General lab policies, do's and don'ts" >}}
 
-[Guidelines for working in the tissue culture facility]({{< baseurl >}}/pages/labs/guidelines-for-working-in-the-tissue-culture-facility)
+{{< resource_link 61a035e4-275d-81eb-212e-beb3ab2f7c87 "Guidelines for working in the tissue culture facility" >}}
 
 Guidelines on using personal protective equipment, developed by  
 MIT's Environmental Health and Safety Office:
@@ -54,13 +54,13 @@ MIT's Environmental Health and Safety Office:
 {{< tdopen >}}
 
 
-[Statement on Collaboration and Integrity]({{< baseurl >}}/pages/syllabus/statement-on-collaboration-and-integrity)
+{{< resource_link 02782790-19cc-d222-7cb2-c2e7106d46b7 "Statement on Collaboration and Integrity" >}}
 
-[Guidelines for maintaining your lab notebook]({{< baseurl >}}/pages/labs/guidelines-for-maintaining-your-lab-notebook)
+{{< resource_link 3b6c19a7-06ec-ef2a-ad75-041f80286fd6 "Guidelines for maintaining your lab notebook" >}}
 
-[Guidelines for oral presentations]({{< baseurl >}}/pages/assignments/guidelines-for-oral-presentations)
+{{< resource_link c054e983-55c4-7571-51ab-8f1efea6beb0 "Guidelines for oral presentations" >}}
 
-[Guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research)
+{{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for writing up your research" >}}
 
 
 {{< tdclose >}}
@@ -89,10 +89,10 @@ LAB Materials
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m0d1)) 
+({{< resource_link d00ac979-5def-7fb9-7c67-db6f41d3dc8d "PDF" >}}) 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab orientation]({{< baseurl >}}/pages/labs/20.109-s10-lab-orientation)
+{{< resource_link 84e8174c-592f-f934-08b5-8921e05ba894 "Lab orientation" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,10 +139,10 @@ LAB Materials
 Day 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m1d1))
+({{< resource_link 97f8b3cb-baed-0a4d-1d8b-30a3df505b77 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Amplify aptamer-encoding DNA]({{< baseurl >}}/pages/labs/module-1-day-1-amplify-aptamer-encoding-dna)
+{{< resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Amplify aptamer-encoding DNA" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,10 +151,10 @@ Day 1
 Day 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m1d2)) 
+({{< resource_link f14bd5af-7a9c-5a5a-f852-6261995ba71f "PDF" >}}) 
 {{< tdclose >}}
 {{< tdopen >}}
-[Purify aptamer-encoding DNA]({{< baseurl >}}/pages/labs/module-1-day-2-purify-aptamer-encoding-dna)
+{{< resource_link 52bbd0a9-989c-ea78-b8db-094bc1580980 "Purify aptamer-encoding DNA" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,10 +163,10 @@ Day 2
 Day 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m1d3)) 
+({{< resource_link 12f68f84-e49f-4a3b-8865-de592b4758ad "PDF" >}}) 
 {{< tdclose >}}
 {{< tdopen >}}
-[Prepare RNA by IVT]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt)
+{{< resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Prepare RNA by IVT" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,10 +175,10 @@ Day 3
 Day 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m1d4))
+({{< resource_link d58d9787-8bd3-a59f-8f76-fa6ad413c5b8 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Purify RNA and run affinity column]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column)
+{{< resource_link 6bee5b41-a34d-cb2b-7923-c9303daa44b8 "Purify RNA and run affinity column" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,10 +187,10 @@ Day 4
 Day 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m1d5)) 
+({{< resource_link 1cca677f-b8b3-641d-c56a-8d87b58cc038 "PDF" >}}) 
 {{< tdclose >}}
 {{< tdopen >}}
-[RNA to DNA by RT-PCR]({{< baseurl >}}/pages/labs/module-1-day-5-rna-to-dna-by-rt-pcr)
+{{< resource_link e11e968b-82aa-fefc-994a-6731a910335d "RNA to DNA by RT-PCR" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,10 +199,10 @@ Day 5
 Day 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m1d6)) 
+({{< resource_link d867998b-5e5a-4fef-939d-99a3b3e23e1a "PDF" >}}) 
 {{< tdclose >}}
 {{< tdopen >}}
-[Post-selection IVT and journal club]({{< baseurl >}}/pages/labs/module-1-day-6-post-selection-ivt-and-journal-club)
+{{< resource_link e22f2979-02d0-a74e-610c-22f87f1c3eac "Post-selection IVT and journal club" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,10 +211,10 @@ Day 6
 Day 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m1d7)) 
+({{< resource_link 0542b9b3-a6e7-d1a6-c103-8cd5b2537837 "PDF" >}}) 
 {{< tdclose >}}
 {{< tdopen >}}
-[Aptamer binding assay]({{< baseurl >}}/pages/labs/module-1-day-7-aptamer-binding-assay)
+{{< resource_link 6074c179-64ef-9a51-f5e9-785309daca35 "Aptamer binding assay" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,16 +226,16 @@ Day 8
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Journal club (contd.)]({{< baseurl >}}/pages/labs/module-1-day-8-journal-club-continued)
+{{< resource_link 5dbc8036-e0e3-9c3c-1973-b5a70d1971f1 "Journal club (contd.)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-See the [Assignments]({{< baseurl >}}/pages/assignments) page for descriptions of the Module 1 laboratory report and RNA computational analysis assignments.
+See the {{< resource_link 5a2e497f-e49c-5201-6e67-a52f578758e7 "Assignments" >}} page for descriptions of the Module 1 laboratory report and RNA computational analysis assignments.
 
-[TA notes for Module 1]({{< baseurl >}}/pages/labs/ta-notes-for-lab-module-1)
+{{< resource_link d6824c94-8959-a4ec-b5b3-a6ce9cdcde6d "TA notes for Module 1" >}}
 
 {{< anchor "Protein_Engineering" >}}{{< /anchor >}}Module 2: Protein Engineering
 --------------------------------------------------------------------------------
@@ -283,10 +283,10 @@ LAB Materials
 Day 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m2d1)) 
+({{< resource_link 1fcae27c-2a5f-c115-0cdd-4e0ce0df1108 "PDF" >}}) 
 {{< tdclose >}}
 {{< tdopen >}}
-[Start-up protein engineering]({{< baseurl >}}/pages/labs/module-2-day-1-start-up-protein-engineering)
+{{< resource_link 8f241b98-5c89-b697-aa6c-acb092a600c2 "Start-up protein engineering" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,10 +295,10 @@ Day 1
 Day 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m2d2))
+({{< resource_link 593fce26-341a-7243-4b83-72e3bd206ee8 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Site-directed mutagenesis]({{< baseurl >}}/pages/labs/module-2-day-2-site-directed-mutagenesis)
+{{< resource_link 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0 "Site-directed mutagenesis" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,10 +307,10 @@ Day 2
 Day 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m2d3))
+({{< resource_link 0c29e002-f4a0-f180-5d87-8a9bd86817d2 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Bacterial amplification of DNA]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna)
+{{< resource_link 080f3ca5-b66b-7f32-2240-25c3a1fd5acc "Bacterial amplification of DNA" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,10 +319,10 @@ Day 3
 Day 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m2d4))
+({{< resource_link da87c792-e680-ce95-6683-a3695b600f7b "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Prepare expression system]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system)
+{{< resource_link ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f "Prepare expression system" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,10 +331,10 @@ Day 4
 Day 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m2d5))
+({{< resource_link 9da00fbd-694a-0173-a696-1b9868938b75 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Induce protein and evaluate DNA]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna)
+{{< resource_link c902c8ea-545c-743f-443e-440ff96d6753 "Induce protein and evaluate DNA" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,10 +343,10 @@ Day 5
 Day 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m2d6))
+({{< resource_link bf7f22b7-bcb3-0399-8201-2d01870cb35f "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Characterize protein expression]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression)
+{{< resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Characterize protein expression" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -358,7 +358,7 @@ Day 7
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Assay protein behavior]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior)
+{{< resource_link 7e3077c4-fdbc-7693-27b3-9a99e5bf2125 "Assay protein behavior" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -370,16 +370,16 @@ Day 8
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Data analysis]({{< baseurl >}}/pages/labs/module-2-day-8-data-analysis)
+{{< resource_link d9bfa075-4ac8-ea99-8914-f82c9edfb492 "Data analysis" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-See the [Assignments]({{< baseurl >}}/pages/assignments) page for a description of the Module 2 protein engineering research paper.
+See the {{< resource_link 5a2e497f-e49c-5201-6e67-a52f578758e7 "Assignments" >}} page for a description of the Module 2 protein engineering research paper.
 
-[TA notes for Module 2]({{< baseurl >}}/pages/labs/module-2-ta-notes)
+{{< resource_link 8e1e3a8e-c2e0-ebd7-45be-789770a7c53b "TA notes for Module 2" >}}
 
 {{< anchor "Biomaterial_Engineering" >}}{{< /anchor >}}Module 3: Cell-Biomaterial Engineering
 ---------------------------------------------------------------------------------------------
@@ -421,10 +421,10 @@ LAB Materials
 Day 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF)]({{< baseurl >}}/resources/mit20_109s10_labpre_m3d1)
+({{< resource_link a28729ba-6bde-8f6b-5f54-2870adcf37c7 "PDF)" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Start-up biomaterials engineering]({{< baseurl >}}/pages/labs/module-3-day-1-start-up-biomaterials-engineering)
+{{< resource_link 5eaf324b-de14-6e78-7a5e-edddab8e6498 "Start-up biomaterials engineering" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -436,7 +436,7 @@ Day 2
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Initiate cell culture]({{< baseurl >}}/pages/labs/module-3-day-2-initiate-cell-culture)
+{{< resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Initiate cell culture" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -445,10 +445,10 @@ Day 2
 Day 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m3d3))
+({{< resource_link c13e01d5-3532-b606-bafe-6ae45b5bbb00 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Testing cell viability]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability)
+{{< resource_link a6ef5fb5-bb91-ae11-a408-6647172e10b5 "Testing cell viability" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -457,10 +457,10 @@ Day 3
 Day 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m3d4))
+({{< resource_link 7efe1a3f-9fcc-aa40-a3e5-1f51100ca1b1 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Preparing cells for analysis]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis)
+{{< resource_link 9f1add66-0448-ffba-794a-48d70e4c97b2 "Preparing cells for analysis" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -469,10 +469,10 @@ Day 4
 Day 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m3d4))
+({{< resource_link 7efe1a3f-9fcc-aa40-a3e5-1f51100ca1b1 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Transcript-level analysis]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis)
+{{< resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Transcript-level analysis" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -481,10 +481,10 @@ Day 5
 Day 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m3d6))
+({{< resource_link e64434f7-7d3b-c569-f49e-ac5c6dce808b "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Protein-level analysis]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis)
+{{< resource_link f82c52d5-f03d-5172-9e51-338ebfdc2fc4 "Protein-level analysis" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -493,10 +493,10 @@ Day 6
 Day 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit20_109s10_labpre_m3d7))
+({{< resource_link e5371e89-e3b8-fc4a-b199-3d1f1f6fa34e "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-[Wrap-up analysis]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior)
+{{< resource_link 7e3077c4-fdbc-7693-27b3-9a99e5bf2125 "Wrap-up analysis" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -515,6 +515,6 @@ Student presentations
 
 {{< tableclose >}}
 
-See the [Assignments]({{< baseurl >}}/pages/assignments) page for a description of the Module 3 cell-biomaterial engineering report.
+See the {{< resource_link 5a2e497f-e49c-5201-6e67-a52f578758e7 "Assignments" >}} page for a description of the Module 3 cell-biomaterial engineering report.
 
-[TA notes for Module 3]({{< baseurl >}}/pages/labs/20.109-s10-ta-notes-for-module-3)
+{{< resource_link 6b1bae8b-ac67-d9ae-c31a-bac7f34d1632 "TA notes for Module 3" >}}

@@ -10,7 +10,7 @@ title: 'fModule 3, Day 2: Initiate Cell Culture'
 uid: b802fd25-d874-3abb-5ebe-1fab28e947bd
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-1-start-up-biomaterials-engineering) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability) >
+\< {{< resource_link 5eaf324b-de14-6e78-7a5e-edddab8e6498 "Previous lab day" >}} | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | {{< resource_link a6ef5fb5-bb91-ae11-a408-6647172e10b5 "Next lab day" >}} >
 
 Introduction
 ------------
@@ -112,7 +112,7 @@ For Next Time
     *   only 25% of the cells are able to stick and proliferate (this is called a 25% plating efficiency).
     *   the doubling time for the cells is 24 hours.
     *   the cells take 24 hours to recover from trypsin treatment before they begin doubling.
-3.  The [primary assignment]({{< baseurl >}}/pages/assignments/module-3-assignment-oral-presentations) for this experimental module will be for you to develop a research proposal and present your idea to the class. For next time, please describe five recent findings that might define an interesting research question. You should hand in a 3-5 sentence description of each topic and cite the reference that led you to each item. The topics you pick can be related to any aspect of the class, i.e. RNA, protein, or cell-biomaterial engineering. During lab next time, you and your partner will review the topics and narrow your choices, identifying one or perhaps two topics for further research.
+3.  The {{< resource_link 0c4ba1fe-4327-9c5a-ab2b-c5f956ef140f "primary assignment" >}} for this experimental module will be for you to develop a research proposal and present your idea to the class. For next time, please describe five recent findings that might define an interesting research question. You should hand in a 3-5 sentence description of each topic and cite the reference that led you to each item. The topics you pick can be related to any aspect of the class, i.e. RNA, protein, or cell-biomaterial engineering. During lab next time, you and your partner will review the topics and narrow your choices, identifying one or perhaps two topics for further research.
     *   Note: for now, you do _not_ have to have a novel research idea sketched out; you simply have to describe five recent examples of existing work. However, you can start to brainstorm how to build off of those topics into something new if you want to get ahead of the game.
 
 Reagent List

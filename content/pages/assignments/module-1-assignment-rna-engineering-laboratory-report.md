@@ -59,7 +59,7 @@ Though somewhat variable, typical section lengths might be:
 {{< anchor "Content_Guidelines" >}}{{< /anchor >}}Content Guidelines
 --------------------------------------------------------------------
 
-Begin by reading the general [guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research), which describe the expectations for every section of the report, from Abstract to References. A few notes specific to Module 1 are as follows.
+Begin by reading the general {{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "guidelines for writing up your research" >}}, which describe the expectations for every section of the report, from Abstract to References. A few notes specific to Module 1 are as follows.
 
 ### Introduction
 

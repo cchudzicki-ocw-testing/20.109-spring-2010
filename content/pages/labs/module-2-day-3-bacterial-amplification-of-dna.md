@@ -202,7 +202,7 @@ You will make your teaching faculty very happy if you contribute to their prepar
 For Next Time
 -------------
 
-1.  The pRSET plasmid with inverse pericam insert, or pRSET-IPC, is 4169 basepairs long. According to the cutters list ([PDF]({{< baseurl >}}/resources/mit20_109s10_m2d1_cut12-1)) that you used on Day 1, restriction site _PvuI_ occurs at ~1685 bp, and again at ~2730 bp into pRSET-IPC. Thus, digesting this parental plasmid with the _PvuI_ enzyme should result in two linear fragments of DNA, with about 1050 and 3120 bp sizes.
+1.  The pRSET plasmid with inverse pericam insert, or pRSET-IPC, is 4169 basepairs long. According to the cutters list ({{< resource_link 1109c22d-7068-0ba9-3809-2c4f613504ef "PDF" >}}) that you used on Day 1, restriction site _PvuI_ occurs at ~1685 bp, and again at ~2730 bp into pRSET-IPC. Thus, digesting this parental plasmid with the _PvuI_ enzyme should result in two linear fragments of DNA, with about 1050 and 3120 bp sizes.
     
     A silent mutation can be introduced that results in a new _PvuI_ site at the 341{{< sup "st" >}}\-342{{< sup "nd" >}} residues of inverse pericam (ATT → ATC and TAC → GAC) , or approximately the 1020{{< sup "th" >}} basepair of IPC. When IPC is inserted into pRSET, its starting point is ~200bp into the pRSET plasmid. Thus, if the mutated pRSET-IPC plasmid is digested with _PvuI_, three linear fragments of DNA are the result: 470, 1050, and 2660 bp. To understand these calculations, see also the plasmid maps below. Make sure you can reproduce the numbers above before proceeding with your own samples.
     
