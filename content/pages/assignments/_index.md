@@ -46,7 +46,7 @@ DESCRIPTIONS
 1
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[RNA Engineering]({{< baseurl >}}/pages/labs#RNA_Engineering)
+{{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "RNA Engineering" "#RNA_Engineering" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Laboratory report
@@ -108,7 +108,7 @@ Evaluation rubric ({{< resource_link f131f688-8100-dcb8-8036-7ca7c0eb5f51 "PDF" 
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Protein Engineering]({{< baseurl >}}/pages/labs#Protein_Engineering)
+{{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Protein Engineering" "#Protein_Engineering" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Research article
@@ -132,7 +132,7 @@ Research article
 3
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Cell-Biomaterial Engineering]({{< baseurl >}}/pages/labs#Biomaterial_Engineering)
+{{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Cell-Biomaterial Engineering" "#Biomaterial_Engineering" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Research idea presentation

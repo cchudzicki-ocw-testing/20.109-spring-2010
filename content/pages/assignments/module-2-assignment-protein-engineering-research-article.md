@@ -90,7 +90,7 @@ In most research endeavours, you will collect more data than you ultimately publ
 Evaluation
 ----------
 
-The full descriptive rubric for lab reports can be found on the [guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#evaluation). The weighting for Module 2, which is different than that for Module 1, is as follows:
+The full descriptive rubric for lab reports can be found on the {{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "guidelines for writing up your research" "#evaluation" >}}. The weighting for Module 2, which is different than that for Module 1, is as follows:
 
 {{< tableopen >}}
 {{< theadopen >}}

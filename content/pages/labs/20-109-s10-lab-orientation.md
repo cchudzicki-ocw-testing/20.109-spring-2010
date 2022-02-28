@@ -10,7 +10,7 @@ title: Lab Orientation
 uid: 84e8174c-592f-f934-08b5-8921e05ba894
 ---
 
-« Back to [Labs]({{< baseurl >}}/pages/labs#Orientation)
+« Back to {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Orientation" >}}
 
 Contents
 --------
@@ -354,6 +354,6 @@ When solutions must be diluted several orders of magnitude, then serial dilution
 3.  Register for an account on [OpenWetWare](http://openwetware.org/wiki/Main_Page) by filling out the "[join OWW](http://openwetware.org/wiki/Join)" form. Once you get an account:
     *   familiarize yourself with using the wiki by reading the "[OpenWetWare Basics](http://openwetware.org/wiki/20.109%28S10%29:OWW_basics)" page.
     *   add the 20.109 home page to your "watch" list and update your preferences so you'll be notified by email when an announcement is made.
-    *   Prepare for the first day of Module 1 by reading the [Module 1 Overview]({{< baseurl >}}/pages/labs#RNA_Engineering) and {{< resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Day 1" >}} introduction.
+    *   Prepare for the first day of Module 1 by reading the {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 Overview" "#RNA_Engineering" >}} and {{< resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Day 1" >}} introduction.
 
-« Back to [Labs]({{< baseurl >}}/pages/labs#Orientation)
+« Back to {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Orientation" >}}

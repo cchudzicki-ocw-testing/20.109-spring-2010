@@ -10,7 +10,7 @@ title: 'Module 1, Day 7: Aptamer Binding Assay'
 uid: 6074c179-64ef-9a51-f5e9-785309daca35
 ---
 
-\< {{< resource_link e22f2979-02d0-a74e-610c-22f87f1c3eac "Previous lab day" >}} | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | {{< resource_link 5dbc8036-e0e3-9c3c-1973-b5a70d1971f1 "Next lab day" >}} >
+\< {{< resource_link e22f2979-02d0-a74e-610c-22f87f1c3eac "Previous lab day" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" >}} | {{< resource_link 5dbc8036-e0e3-9c3c-1973-b5a70d1971f1 "Next lab day" >}} >
 
 Introduction
 ------------

@@ -10,7 +10,7 @@ title: 'Module 3, Day 1: Start-Up Biomaterials Engineering'
 uid: 5eaf324b-de14-6e78-7a5e-edddab8e6498
 ---
 
-[Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | {{< resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Next lab day" >}} >
+{{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" >}} | {{< resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Next lab day" >}} >
 
 Introduction
 ------------

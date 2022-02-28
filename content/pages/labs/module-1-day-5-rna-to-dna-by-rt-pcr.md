@@ -10,7 +10,7 @@ title: 'Module 1, Day 5: RNA to DNA by RT-PCR'
 uid: e11e968b-82aa-fefc-994a-6731a910335d
 ---
 
-\< {{< resource_link 6bee5b41-a34d-cb2b-7923-c9303daa44b8 "Previous lab day" >}} | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | {{< resource_link e22f2979-02d0-a74e-610c-22f87f1c3eac "Next lab day" >}} >
+\< {{< resource_link 6bee5b41-a34d-cb2b-7923-c9303daa44b8 "Previous lab day" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" >}} | {{< resource_link e22f2979-02d0-a74e-610c-22f87f1c3eac "Next lab day" >}} >
 
 Introduction
 ------------

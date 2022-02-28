@@ -10,7 +10,7 @@ title: 'Module 3, Day 6: Protein-Level Analysis'
 uid: f82c52d5-f03d-5172-9e51-338ebfdc2fc4
 ---
 
-\< {{< resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Previous lab day" >}} | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | {{< resource_link 5f8e672f-9f42-ac26-3579-a568a4d379d1 "Next lab day" >}} >
+\< {{< resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Previous lab day" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" >}} | {{< resource_link 5f8e672f-9f42-ac26-3579-a568a4d379d1 "Next lab day" >}} >
 
 Introduction
 ------------

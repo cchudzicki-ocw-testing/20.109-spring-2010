@@ -10,7 +10,7 @@ title: 'Module 1, Day 6: Post-selection IVT and Journal Club'
 uid: e22f2979-02d0-a74e-610c-22f87f1c3eac
 ---
 
-\< {{< resource_link e11e968b-82aa-fefc-994a-6731a910335d "Previous lab day" >}} | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | {{< resource_link 6074c179-64ef-9a51-f5e9-785309daca35 "Next lab day" >}} >
+\< {{< resource_link e11e968b-82aa-fefc-994a-6731a910335d "Previous lab day" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" >}} | {{< resource_link 6074c179-64ef-9a51-f5e9-785309daca35 "Next lab day" >}} >
 
 Introduction
 ------------
@@ -40,4 +40,4 @@ For Next Time
 Reagent List
 ------------
 
-Same list as for [Day 3]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt#reagent_list)
+Same list as for {{< resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Day 3" "#reagent_list" >}}

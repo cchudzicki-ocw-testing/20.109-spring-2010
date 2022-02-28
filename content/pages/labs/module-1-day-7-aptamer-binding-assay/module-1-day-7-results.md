@@ -9,7 +9,7 @@ title: 'Module 1, Day 7: Results'
 uid: 2b04dfe1-8727-423d-6536-86dcb5f4bcd2
 ---
 
-« [Back to Module 1, Day 7 lab]({{< baseurl >}}/pages/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results#result_link)
+« {{< resource_link 2b04dfe1-8727-423d-6536-86dcb5f4bcd2 "Back to Module 1, Day 7 lab" "#result_link" >}}
 
 These selected lab results are courtesy of the students and used with permission. (T/R blue = Leanna Morinishi and an anonymous MIT student; all other teams anonymous MIT students.)
 

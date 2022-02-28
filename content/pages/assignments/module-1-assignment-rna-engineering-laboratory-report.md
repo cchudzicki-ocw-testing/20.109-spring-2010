@@ -98,7 +98,7 @@ You are not expected to do a thorough survey of the relevant primary literature 
 {{< anchor "Evaluation" >}}{{< /anchor >}}Evaluation
 ----------------------------------------------------
 
-The full descriptive rubric for lab reports can be found on the [guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#Evaluation). The weighting for Module 1 is as follows:
+The full descriptive rubric for lab reports can be found on the {{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "guidelines for writing up your research" "#Evaluation" >}}. The weighting for Module 1 is as follows:
 
 {{< tableopen >}}
 {{< theadopen >}}

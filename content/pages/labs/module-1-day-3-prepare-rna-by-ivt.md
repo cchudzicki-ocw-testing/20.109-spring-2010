@@ -10,7 +10,7 @@ title: 'Module 1, Day 3: Prepare RNA by IVT'
 uid: 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870
 ---
 
-\< {{< resource_link 52bbd0a9-989c-ea78-b8db-094bc1580980 "Previous lab day" >}} | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | {{< resource_link 6bee5b41-a34d-cb2b-7923-c9303daa44b8 "Next lab day" >}} >
+\< {{< resource_link 52bbd0a9-989c-ea78-b8db-094bc1580980 "Previous lab day" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" >}} | {{< resource_link 6bee5b41-a34d-cb2b-7923-c9303daa44b8 "Next lab day" >}} >
 
 Introduction
 ------------
@@ -348,7 +348,7 @@ Note that multiple pathways for blood clotting exist. An **APTT assay** measures
 As you read the paper by Rusconi, et al., consider not only its scientific content, but also the authors' writing style (perhaps not all on one read!). Refer to our {{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for Writing Up Your Research" >}} Sketch out answers to the questions below (right on the paper if you wish). Your answers will not be collected, but you may be called on in discussion to share your ideas.
 
 *   Which part of the text corresponds with an Introduction section? What is the topic and/or function of each paragraph? What purpose(s) do the citations serve?
-*   Which part of the text corresponds with a Results section? Can you find one or more examples of paragraphs with effective introductory and concluding sentences, according to our [Guidelines for results]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#Results)? Are there any parts in the Results that you think belong in the Discussion instead, according to our [Guidelines for discussions]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#Discussion) and [results vs. discussions]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research#Results_vs._Discussion)?
+*   Which part of the text corresponds with a Results section? Can you find one or more examples of paragraphs with effective introductory and concluding sentences, according to our {{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for results" "#Results" >}}? Are there any parts in the Results that you think belong in the Discussion instead, according to our {{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "Guidelines for discussions" "#Discussion" >}} and {{< resource_link 4475e656-793c-6dff-b84a-59b0ac66adb2 "results vs. discussions" "#Results_vs._Discussion" >}}?
 *   Which part of the text corresponds with a Discussion section? What is the topic and/or function of each paragraph? What purpose(s) do the citations serve?
 
 **Content**

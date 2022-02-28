@@ -10,7 +10,7 @@ title: 'Module 2, Day 2: Site-Directed Mutagenesis'
 uid: 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-1-start-up-protein-engineering#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) \>
+\< {{< resource_link 8f241b98-5c89-b697-aa6c-acb092a600c2 "Previous lab day" "#module_2_index" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" >}} | {{< resource_link 080f3ca5-b66b-7f32-2240-25c3a1fd5acc "Next lab day" "#module_2_index" >}} \>
 
 Introduction
 ------------

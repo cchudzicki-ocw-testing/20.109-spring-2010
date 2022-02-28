@@ -10,7 +10,7 @@ title: 'Module 2, Day 1: Start-Up Protein Engineering'
 uid: 8f241b98-5c89-b697-aa6c-acb092a600c2
 ---
 
-[Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | {{< resource_link 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0 "Next lab day" >}} >
+{{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" >}} | {{< resource_link 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0 "Next lab day" >}} >
 
 Introduction
 ------------

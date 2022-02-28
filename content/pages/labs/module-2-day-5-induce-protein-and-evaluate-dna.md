@@ -10,7 +10,7 @@ title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 uid: c902c8ea-545c-743f-443e-440ff96d6753
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression#module_2_index) >
+\< {{< resource_link ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f "Previous lab day" "#module_2_index" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" >}} | {{< resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Next lab day" "#module_2_index" >}} >
 
 Introduction
 ------------

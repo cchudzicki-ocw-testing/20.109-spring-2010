@@ -10,7 +10,7 @@ title: 'Module 2, Day 8: Data Analysis'
 uid: d9bfa075-4ac8-ea99-8914-f82c9edfb492
 ---
 
-\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering)
+\< {{< resource_link 7e3077c4-fdbc-7693-27b3-9a99e5bf2125 "Previous lab day" "#module_2_index" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" >}}
 
 Introduction
 ------------
