@@ -36,7 +36,7 @@ We appreciate that time management can be a difficult skill to develop, and that
 
 ### Assignments and Grading
 
-See the {{< resource_link 5a2e497f-e49c-5201-6e67-a52f578758e7 "Assignments" >}} page for more details on these items.
+See the {{% resource_link 5a2e497f-e49c-5201-6e67-a52f578758e7 "Assignments" %}} page for more details on these items.
 
 {{< tableopen >}}
 {{< theadopen >}}

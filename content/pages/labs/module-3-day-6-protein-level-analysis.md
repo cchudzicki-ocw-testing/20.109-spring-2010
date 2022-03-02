@@ -10,7 +10,7 @@ title: 'Module 3, Day 6: Protein-Level Analysis'
 uid: f82c52d5-f03d-5172-9e51-338ebfdc2fc4
 ---
 
-\< {{< resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Previous lab day" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" >}} | {{< resource_link 5f8e672f-9f42-ac26-3579-a568a4d379d1 "Next lab day" >}} >
+\< {{% resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link 5f8e672f-9f42-ac26-3579-a568a4d379d1 "Next lab day" %}} >
 
 Introduction
 ------------
@@ -68,7 +68,7 @@ In your notebook, you should comment on your live/dead and transcript results if
 For Next Time
 -------------
 
-1.  Your {{< resource_link 911e8ec9-83fa-d6c8-629d-d3cbfe9b87ec "Module 3 report" >}} will be due before you leave lab next time. Continue working on it.
+1.  Your {{% resource_link 911e8ec9-83fa-d6c8-629d-d3cbfe9b87ec "Module 3 report" %}} will be due before you leave lab next time. Continue working on it.
 2.  Based on the feedback that you got from your peers and/or the teaching faculty today, continue to define your research proposal and update your wiki page with your partner. You do not need to hand anything in, but keep in mind that your talk is one week from today.
 
 Reagent List

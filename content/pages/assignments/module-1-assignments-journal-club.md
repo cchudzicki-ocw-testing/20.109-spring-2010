@@ -15,7 +15,7 @@ Logistics of Paper Sign-Up and Presentation
 
 Once you have decided on a paper for your presentation, please "reserve" it by signing up on the class list. If you would like to discuss a paper not on the list below, please email it to the instructor’s email list with a brief description.
 
-As you prepare your talk be sure to follow the class {{< resource_link c054e983-55c4-7571-51ab-8f1efea6beb0 "guidelines for oral presentations" >}} in this class.
+As you prepare your talk be sure to follow the class {{% resource_link c054e983-55c4-7571-51ab-8f1efea6beb0 "guidelines for oral presentations" %}} in this class.
 
 Day 6 presentations will begin after lab work is finished. The entire class session on Day 8 will be devoted to presentations.
 

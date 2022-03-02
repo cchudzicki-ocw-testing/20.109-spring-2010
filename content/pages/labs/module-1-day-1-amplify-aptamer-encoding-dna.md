@@ -10,7 +10,7 @@ title: 'Module 1, Day 1: Amplify Aptamer-Encoding DNA'
 uid: a4698e5d-1f6b-3e32-71de-c8f8829f224f
 ---
 
-{{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" >}} | {{< resource_link 52bbd0a9-989c-ea78-b8db-094bc1580980 "Next lab day" >}} >
+{{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}} | {{% resource_link 52bbd0a9-989c-ea78-b8db-094bc1580980 "Next lab day" %}} >
 
 Introduction
 ------------
@@ -178,7 +178,7 @@ indefinite
 Part 3: Introduction to Computational Analysis
 ----------------------------------------------
 
-Your understanding of this module will in part be evaluated by the {{< resource_link 719527d1-5fa3-3e74-09a6-6598e496c6a1 "RNA Computational Analysis assignment" >}}. Although you will not be prepared to understand the entire assignment today - until you have a better grasp of what SELEX entails - you should be able to get a good start on the first section.
+Your understanding of this module will in part be evaluated by the {{% resource_link 719527d1-5fa3-3e74-09a6-6598e496c6a1 "RNA Computational Analysis assignment" %}}. Although you will not be prepared to understand the entire assignment today - until you have a better grasp of what SELEX entails - you should be able to get a good start on the first section.
 
 1.  Begin by reading the assignment overview and background information. (It's fine if the latter doesn't make perfect sense yet.)
 2.  Download the associated data file and read the background. Again, the introductory text may make more sense in a week or two.
@@ -207,7 +207,7 @@ For Next Time
 1.  Continue to familiarize yourself with the workings of OpenWetWare. Specifically, you should:
     *   Add your user page to the class's People page..
     *   Complete the student registration/questionnaire to turn in next time..
-2.  The major assessment for this module will be the {{< resource_link b51163eb-3d06-d776-ae5a-b5f8349c22d4 "RNA Engineering Report" >}}. Start to familiarize yourself with its expected structure and content.
+2.  The major assessment for this module will be the {{% resource_link b51163eb-3d06-d776-ae5a-b5f8349c22d4 "RNA Engineering Report" %}}. Start to familiarize yourself with its expected structure and content.
 3.  One week from today in the Module 1 Day 3 session, we will have an in-class discussion about an article from the primary scientific literature. You might begin reading and thinking about the paper now, rather than trying to do so only in the two days between Day 2 and Day 3.
 
 Reagent List

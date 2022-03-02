@@ -10,7 +10,7 @@ title: 'TA notes for Lab Module 1: RNA Engineering'
 uid: d6824c94-8959-a4ec-b5b3-a6ce9cdcde6d
 ---
 
-« Back to {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#RNA_Engineering" >}}
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#RNA_Engineering" %}}
 
 This page contains general preparation notes for the teaching assistants supporting Module 1 labs. Instructors interested in implementing these labs may contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak) for additional fine-tuning information.
 
@@ -230,4 +230,4 @@ Day 8: Journal Club
 
 *   None - strictly a journal club day.
 
- « Back to {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#RNA_Engineering" >}}
+ « Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#RNA_Engineering" %}}

@@ -10,7 +10,7 @@ title: General Lab Policies, Do's and Don'ts
 uid: 714642be-45a1-d5f4-6345-5094456059c8
 ---
 
-« Back to {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Lab Basics" "#Basics" >}}
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Lab Basics" "#Basics" %}}
 
 Lab Attendance
 --------------

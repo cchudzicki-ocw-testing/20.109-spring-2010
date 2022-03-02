@@ -10,7 +10,7 @@ title: 'Module 3, Day 1: Start-Up Biomaterials Engineering'
 uid: 5eaf324b-de14-6e78-7a5e-edddab8e6498
 ---
 
-{{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" >}} | {{< resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Next lab day" >}} >
+{{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Next lab day" %}} >
 
 Introduction
 ------------
@@ -220,5 +220,5 @@ Collagen I and II gels are also available upon request. Keep in mind that using 
 For Next Time
 -------------
 
-1.  Familiarize yourself with the cell culture portion of {{< resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Day 2" >}} of this module. The better prepared we all are, the less likely it is that the day will run long. The hoods will be set up for you when you come in.
+1.  Familiarize yourself with the cell culture portion of {{% resource_link b802fd25-d874-3abb-5ebe-1fab28e947bd "Day 2" %}} of this module. The better prepared we all are, the less likely it is that the day will run long. The hoods will be set up for you when you come in.
 2.  By the end of class on Day 2, write a two or three sentence description of your design plan and expected assay results, and post it for the rest of the class. (Assay result expectations should be stated in a relative fashion: e.g., "we think \[3D sample 1\] will maintain a chondrocyte-like phenotype better than \[3D sample 2\], because..." You might also comment on cell viability, if you expect it to vary among your samples.) This posting will count for homework credit.

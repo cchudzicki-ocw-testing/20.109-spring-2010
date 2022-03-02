@@ -10,7 +10,7 @@ title: 'Module 3, Day 4: Preparing Cells for Analysis'
 uid: 9f1add66-0448-ffba-794a-48d70e4c97b2
 ---
 
-\< {{< resource_link a6ef5fb5-bb91-ae11-a408-6647172e10b5 "Previous lab day" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" >}} | {{< resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Next lab day" >}} >
+\< {{% resource_link a6ef5fb5-bb91-ae11-a408-6647172e10b5 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Next lab day" %}} >
 
 Introduction
 ------------
@@ -75,7 +75,7 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
 ### Part 2: RNA Isolation and Measurement
 
 1.  Pellet the cells for RNA isolation back in the main lab (10 min at 500 g).
-    *   Before pelleting your cells, clean your microfuge. You can finish setting up your RNA work area while the cells spin down. See {{< resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Module 1 Day 3" >}} if you need a refresher.
+    *   Before pelleting your cells, clean your microfuge. You can finish setting up your RNA work area while the cells spin down. See {{% resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Module 1 Day 3" %}} if you need a refresher.
 2.  Remove the supernatant from your cell pellets using pipet tips from an RNase free tip box. (Discard this and other supernatants in a conical waste tube.)
 3.  Now, in the fume hood, add 350 μL RLT with β-mercaptoethanol to each cell sample – vortex or pipet to mix.
     *   If you have more than 5 million cells, you will need to double the amount of RLT used - talk to the teaching faculty.

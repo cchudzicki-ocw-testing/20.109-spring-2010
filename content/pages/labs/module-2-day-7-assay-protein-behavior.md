@@ -10,7 +10,7 @@ title: 'Module 2, Day 7: Assay Protein Behavior'
 uid: 7e3077c4-fdbc-7693-27b3-9a99e5bf2125
 ---
 
-\< {{< resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Previous lab day" "#module_2_index" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" >}} | {{< resource_link d9bfa075-4ac8-ea99-8914-f82c9edfb492 "Next lab day" "#module_2_index" >}} >
+\< {{% resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link d9bfa075-4ac8-ea99-8914-f82c9edfb492 "Next lab day" "#module_2_index" %}} >
 
 Introduction
 ------------
@@ -34,7 +34,7 @@ Only 2-3 groups at a time will work in lab today. Last time you should have sign
 
 ### Part 1: Protein Gel Observation
 
-If you would like to, take a look at your Coomassie-stained gel from the {{< resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "previous lab" "#m2d6_sample_gel" >}}.
+If you would like to, take a look at your Coomassie-stained gel from the {{% resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "previous lab" "#m2d6_sample_gel" %}}.
 
 **Tips for Success**
 

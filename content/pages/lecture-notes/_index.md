@@ -39,7 +39,7 @@ LECTURE SLIDES
 Orientation
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 851b0f7c-2b27-f140-3d1f-704eead3fef8 "PDF - 1.7MB" >}})
+({{% resource_link 851b0f7c-2b27-f140-3d1f-704eead3fef8 "PDF - 1.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +66,7 @@ _The Module 1 lecture notes are not available for OCW_, _except for the followin
 Writing and communications introduction (Neal Lerner)
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 996e7fba-a4a1-0c52-6009-2544cea95178 "PDF" >}})
+({{% resource_link 996e7fba-a4a1-0c52-6009-2544cea95178 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ Writing and communications introduction (Neal Lerner)
 The Language of Biological Engineering Reports (Linda Sutliff)
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ce3091d3-ab9d-eb4e-2df3-5decc840ccaa "PDF" >}})
+({{% resource_link ce3091d3-ab9d-eb4e-2df3-5decc840ccaa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ The Language of Biological Engineering Reports (Linda Sutliff)
 Creating your 20.109 presentation (Atissa Banuazizi)
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link cd0ca2a7-8e80-4b4b-9c01-243b5340a8e4 "PDF - 1.4MB" >}})
+({{% resource_link cd0ca2a7-8e80-4b4b-9c01-243b5340a8e4 "PDF - 1.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +111,7 @@ Creating your 20.109 presentation (Atissa Banuazizi)
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link f1d107af-9eb3-5e79-bcff-57bf23eb47b7 "PDF - 1.6MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f1d107af-9eb3-5e79-bcff-57bf23eb47b7 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Introduction
 Rational protein design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 6c13ba00-db29-2d71-53c9-ba338846301d "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6c13ba00-db29-2d71-53c9-ba338846301d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +141,7 @@ Rational protein design
 Fluorescence and sensors
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link f7bb7a06-c161-1b7e-22a7-a5868eeadd1d "PDF - 1.3MB" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f7bb7a06-c161-1b7e-22a7-a5868eeadd1d "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +156,7 @@ Fluorescence and sensors
 Protein expression
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 32723941-4c5a-6e49-76cc-ede9cce3bca4 "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 32723941-4c5a-6e49-76cc-ede9cce3bca4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +171,7 @@ Protein expression
 Review & gene analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 88f5e9a5-b974-6e5e-5797-e2fcecbfc98c "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 88f5e9a5-b974-6e5e-5797-e2fcecbfc98c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +186,7 @@ Review & gene analysis
 Purification and protein analysis
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 8fcfe12b-40d1-c6ed-6646-2afa2bdb2413 "PDF - 2.0MB" >}})
+({{% resource_link 8fcfe12b-40d1-c6ed-6646-2afa2bdb2413 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +201,7 @@ Purification and protein analysis
 Binding & affinity measurements
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link be09ab92-1991-6e95-4a45-93cfbc443da4 "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link be09ab92-1991-6e95-4a45-93cfbc443da4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +216,7 @@ Binding & affinity measurements
 High throughput engineering
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource_link 00229c54-2753-dd3d-a77d-4aadec3e8887 "PDF" >}})
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 00229c54-2753-dd3d-a77d-4aadec3e8887 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,9 +239,9 @@ Introduction
 {{< tdopen >}}
 
 
-({{< resource_link 0aa5756e-c0e2-058e-d72a-0b796fcce833 "PDF - 1.5MB" >}})
+({{% resource_link 0aa5756e-c0e2-058e-d72a-0b796fcce833 "PDF - 1.5MB" %}})
 
-{{< resource_link 27d1bbb4-5349-ca1d-a4cd-455a6e01c674 "Supplemental videos" >}}
+{{% resource_link 27d1bbb4-5349-ca1d-a4cd-455a6e01c674 "Supplemental videos" %}}
 
 
 {{< tdclose >}}
@@ -258,7 +258,7 @@ Introduction
 Introduction to biomaterials; cartilage composition
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c250ab15-3487-c370-07ee-215a1f1928ea "PDF - 1.6MB" >}})
+({{% resource_link c250ab15-3487-c370-07ee-215a1f1928ea "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +273,7 @@ Introduction to biomaterials; cartilage composition
 Basic statistics; standards in scientific communities I
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link d60bba39-c42d-f917-c998-0557bb05663a "PDF - 1.1MB" >}})
+({{% resource_link d60bba39-c42d-f917-c998-0557bb05663a "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +288,7 @@ Basic statistics; standards in scientific communities I
 Standards in scientific communities II; cell viability
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 01c6d3c4-64ea-04b1-a9eb-97f236687226 "PDF" >}})
+({{% resource_link 01c6d3c4-64ea-04b1-a9eb-97f236687226 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,7 +303,7 @@ Standards in scientific communities II; cell viability
 Assays for transcription and protein levels
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3620aa4e-4ae8-3824-6920-5ea0de61ee3b "PDF" >}})
+({{% resource_link 3620aa4e-4ae8-3824-6920-5ea0de61ee3b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +318,7 @@ Assays for transcription and protein levels
 Cartilage TE: from _in vitro_ and _in vivo_ models to the clinic
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 9f8e6e59-ae6b-1895-f5ac-36a068d04109 "PDF - 1.5MB" >}})
+({{% resource_link 9f8e6e59-ae6b-1895-f5ac-36a068d04109 "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +333,7 @@ Cartilage TE: from _in vitro_ and _in vivo_ models to the clinic
 Creating your proposal presentation (Atissa Banuazizi)
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 66e0d367-f8ad-04c5-98a1-a40318d22820 "PDF" >}})
+({{% resource_link 66e0d367-f8ad-04c5-98a1-a40318d22820 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

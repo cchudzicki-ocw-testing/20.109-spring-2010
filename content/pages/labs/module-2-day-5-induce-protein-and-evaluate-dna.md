@@ -10,7 +10,7 @@ title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 uid: c902c8ea-545c-743f-443e-440ff96d6753
 ---
 
-\< {{< resource_link ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f "Previous lab day" "#module_2_index" >}} | {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" >}} | {{< resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Next lab day" "#module_2_index" >}} >
+\< {{% resource_link ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Next lab day" "#module_2_index" %}} >
 
 Introduction
 ------------
@@ -207,7 +207,7 @@ Once all the samples are loaded, the power will be applied (100 V for 45 minutes
 
 ### Part 3: Analyze Sequence Data
 
-Your goal today is to analyze the sequencing data for three samples - two independent colonies from your X#Z mutant, and one M124S clone for practice - and then decide which colony to proceed with for the X#Z mutant. You will want to have this Day 4 sequence document handy ({{< resource_link 0157b734-c176-9588-be86-0c21c8a74db7 "DOC" >}}), and to mark the expected location of your mutation with bold text before proceeding. (Just compare to your annotation of the Day 1 IPC sequence document ({{< resource_link 7acf0d4e-bb71-72a3-8be4-3d2826417320 "DOC" >}}) using Word Count or the Find tool.) The new file contains the inverse pericam sequence as before, but also the flanking sequences (from the pRSET vector) before and after IPC, which are separated from IPC by a blank line. The second page of the document contains the reverse complement of IPC/pRSET, which was generated using this website tool "[Reverse and/or complement DNA sequences.](http://arep.med.harvard.edu/labgc/adnan/projects/Utilities/revcomp.html)" Be sure to bold your mutant codon in the reverse complement sequence as well.
+Your goal today is to analyze the sequencing data for three samples - two independent colonies from your X#Z mutant, and one M124S clone for practice - and then decide which colony to proceed with for the X#Z mutant. You will want to have this Day 4 sequence document handy ({{% resource_link 0157b734-c176-9588-be86-0c21c8a74db7 "DOC" %}}), and to mark the expected location of your mutation with bold text before proceeding. (Just compare to your annotation of the Day 1 IPC sequence document ({{% resource_link 7acf0d4e-bb71-72a3-8be4-3d2826417320 "DOC" %}}) using Word Count or the Find tool.) The new file contains the inverse pericam sequence as before, but also the flanking sequences (from the pRSET vector) before and after IPC, which are separated from IPC by a blank line. The second page of the document contains the reverse complement of IPC/pRSET, which was generated using this website tool "[Reverse and/or complement DNA sequences.](http://arep.med.harvard.edu/labgc/adnan/projects/Utilities/revcomp.html)" Be sure to bold your mutant codon in the reverse complement sequence as well.
 
 Next we will use some data from the [MIT Biopolymers Facility](http://web.mit.edu/biopolymers/Website_2011/index.html). \[_Only available to enrolled students in the class, not accessible for OCW users._\] From this link, we can see sequencing traces and sequence text.
 

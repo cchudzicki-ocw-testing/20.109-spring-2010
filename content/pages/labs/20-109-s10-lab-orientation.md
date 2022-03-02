@@ -10,7 +10,7 @@ title: Lab Orientation
 uid: 84e8174c-592f-f934-08b5-8921e05ba894
 ---
 
-« Back to {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Orientation" >}}
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Orientation" %}}
 
 Contents
 --------
@@ -262,7 +262,7 @@ Locate the following essential safety items in or near the lab, and write down w
 
 ### {{< anchor "Station_9" >}}{{< /anchor >}}Station 9: Graphing your Data (Self-Guided)
 
-*   Use Excel to prepare a graph of absorbance versus volume of 0.01% XC. If you haven't visited this station you can use this sample data ({{< resource_link 5ec9aa34-33ae-9788-7d75-dc746384eaba "XLS" >}}) Some sample graphs are reproduced below and you should generate similar ones with your data. Be sure to include a trendline, displaying its equation as well as the r-squared value on the graph. The r-squared value reflects how well the data points fit the equation. A perfect fit will give an r-squared value of 1. If you are uncertain how to make such a graph using Excel, be sure to ask for help. We will use Excel a lot this semester.
+*   Use Excel to prepare a graph of absorbance versus volume of 0.01% XC. If you haven't visited this station you can use this sample data ({{% resource_link 5ec9aa34-33ae-9788-7d75-dc746384eaba "XLS" %}}) Some sample graphs are reproduced below and you should generate similar ones with your data. Be sure to include a trendline, displaying its equation as well as the r-squared value on the graph. The r-squared value reflects how well the data points fit the equation. A perfect fit will give an r-squared value of 1. If you are uncertain how to make such a graph using Excel, be sure to ask for help. We will use Excel a lot this semester.
 *   If the pipets were well calibrated and the measurements were done carefully, then the points should fall close to a straight line, and the r-squared will be close to 1. If one point seems way off, you can re-test that pipetman. If the repeat data still does not look linear, we can clean the inner workings of your pipetman. Note that the highest XC concentration may not fall in the linear range of the experiment.
 *   There should also be good agreement between the 20 ul measurements made with the P20 and the P200 as well as the 100 ul measurements made with the P200 and P1000. Is there?
 *   Confirm that your data can print from your laptops to one of the two printers in the lab (_revolver_, but not _yellow-submarine_, can do duplex printing).
@@ -354,6 +354,6 @@ When solutions must be diluted several orders of magnitude, then serial dilution
 3.  Register for an account on [OpenWetWare](http://openwetware.org/wiki/Main_Page) by filling out the "[join OWW](http://openwetware.org/wiki/Join)" form. Once you get an account:
     *   familiarize yourself with using the wiki by reading the "[OpenWetWare Basics](http://openwetware.org/wiki/20.109%28S10%29:OWW_basics)" page.
     *   add the 20.109 home page to your "watch" list and update your preferences so you'll be notified by email when an announcement is made.
-    *   Prepare for the first day of Module 1 by reading the {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 Overview" "#RNA_Engineering" >}} and {{< resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Day 1" >}} introduction.
+    *   Prepare for the first day of Module 1 by reading the {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 Overview" "#RNA_Engineering" %}} and {{% resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Day 1" %}} introduction.
 
-« Back to {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Orientation" >}}
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Orientation" %}}

@@ -10,7 +10,7 @@ title: 'TA Notes for Lab Module 2: Protein Engineering'
 uid: 8e1e3a8e-c2e0-ebd7-45be-789770a7c53b
 ---
 
-« Back to {{< resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Protein_Engineering" >}}
+« Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Protein_Engineering" %}}
 
 This page contains general preparation notes for the teaching assistants supporting Module 2 labs. Instructors interested in implementing these labs may contact [Agi Stachowiak](http://openwetware.org/wiki/User:AgiStachowiak) for additional fine-tuning information.
 
