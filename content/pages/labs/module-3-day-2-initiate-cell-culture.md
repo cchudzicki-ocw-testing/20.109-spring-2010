@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'fModule 3, Day 2: Initiate Cell Culture'
 uid: b802fd25-d874-3abb-5ebe-1fab28e947bd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \< {{% resource_link 5eaf324b-de14-6e78-7a5e-edddab8e6498 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link a6ef5fb5-bb91-ae11-a408-6647172e10b5 "Next lab day" %}} >

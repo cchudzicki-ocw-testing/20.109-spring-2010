@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: wf_red_normgraph.gif
 uid: 20653a15-3c31-0735-9a80-4b72b6bf6163
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

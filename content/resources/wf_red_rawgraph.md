@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: wf_red_rawgraph.gif
 uid: 06490893-1d00-d771-0365-b5bfe4448ce5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

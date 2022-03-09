@@ -19,4 +19,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: PCR schematic
 uid: 61889242-e6f7-5d69-47c2-be06a35917d7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

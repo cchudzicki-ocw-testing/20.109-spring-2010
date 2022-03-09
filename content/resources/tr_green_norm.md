@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: tr_green_norm.gif
 uid: f634a1d3-d56b-b34b-84d4-dbb06b5a2490
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

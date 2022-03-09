@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'TA notes for Lab Module 1: RNA Engineering'
 uid: d6824c94-8959-a4ec-b5b3-a6ce9cdcde6d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#RNA_Engineering" %}}

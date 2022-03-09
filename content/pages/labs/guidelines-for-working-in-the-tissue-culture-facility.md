@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: Guidelines for Working in the Tissue Culture Facility
 uid: 61a035e4-275d-81eb-212e-beb3ab2f7c87
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Lab Basics" "#Basics" %}}

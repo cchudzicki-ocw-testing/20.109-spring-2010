@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: 6074c179-64ef-9a51-f5e9-785309daca35
 title: 'Module 1, Day 7: Results'
 uid: 2b04dfe1-8727-423d-6536-86dcb5f4bcd2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « {{% resource_link 2b04dfe1-8727-423d-6536-86dcb5f4bcd2 "Back to Module 1, Day 7 lab" "#result_link" %}}

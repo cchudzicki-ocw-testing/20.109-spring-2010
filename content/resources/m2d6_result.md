@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: m2d6_result.jpg
 uid: 459ddce7-0eda-067e-b43f-1674e27766b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

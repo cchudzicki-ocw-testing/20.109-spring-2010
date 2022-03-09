@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_syl_mdtrm_evl.pdf
 uid: e5e31a76-df54-6fed-6f79-5e22d6599bd0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

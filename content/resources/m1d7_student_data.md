@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: MIT20_109S10_lab_m1d7_data.zip
 uid: 3784557b-2bab-aba6-518a-2482c1dccac7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

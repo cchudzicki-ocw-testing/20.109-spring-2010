@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 3 Assignment: Oral Presentations'
 uid: 0c4ba1fe-4327-9c5a-ab2b-c5f956ef140f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Guidelines for your 20.109 research proposal

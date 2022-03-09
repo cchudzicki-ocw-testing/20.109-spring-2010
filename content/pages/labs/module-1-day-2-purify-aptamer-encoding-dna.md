@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 2: Purify Aptamer-Encoding DNA'
 uid: 52bbd0a9-989c-ea78-b8db-094bc1580980
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \< {{% resource_link a4698e5d-1f6b-3e32-71de-c8f8829f224f "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}} | {{% resource_link 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870 "Next lab day" %}} >

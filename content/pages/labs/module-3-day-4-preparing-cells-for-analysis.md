@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 4: Preparing Cells for Analysis'
 uid: 9f1add66-0448-ffba-794a-48d70e4c97b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \< {{% resource_link a6ef5fb5-bb91-ae11-a408-6647172e10b5 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d "Next lab day" %}} >

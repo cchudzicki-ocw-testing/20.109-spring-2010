@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_m2d1_watcut.pdf
 uid: fce7f13b-c2a8-16e0-c781-fd434735b5a5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

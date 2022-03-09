@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 7: Wrap-Up Analysis'
 uid: 5f8e672f-9f42-ac26-3579-a568a4d379d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \< {{% resource_link f82c52d5-f03d-5172-9e51-338ebfdc2fc4 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}}

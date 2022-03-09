@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: orientation_sampledata.xlsx
 uid: 5ec9aa34-33ae-9788-7d75-dc746384eaba
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

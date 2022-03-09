@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: m2d8_2kd.zip
 uid: cb4e51d7-48dd-a4ff-7c94-16e8e057b27e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

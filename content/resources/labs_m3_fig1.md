@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: labs_m3_fig1.jpg
 uid: 0201cdef-b5d0-bbcc-bcb5-e27b697090f4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 7: Assay Protein Behavior'
 uid: 7e3077c4-fdbc-7693-27b3-9a99e5bf2125
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \< {{% resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link d9bfa075-4ac8-ea99-8914-f82c9edfb492 "Next lab day" "#module_2_index" %}} >

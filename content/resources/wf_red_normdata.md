@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: wf_red_normdata.gif
 uid: 2f810898-a501-4996-480d-ec0123af6519
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

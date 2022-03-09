@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'TA Notes For Module 3: Cell-Biomaterial Engineering'
 uid: 6b1bae8b-ac67-d9ae-c31a-bac7f34d1632
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 « Back to {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Labs" "#Biomaterial_Engineering" %}}

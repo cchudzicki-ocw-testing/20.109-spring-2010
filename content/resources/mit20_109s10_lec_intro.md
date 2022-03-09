@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_lec_intro.pdf
 uid: 851b0f7c-2b27-f140-3d1f-704eead3fef8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

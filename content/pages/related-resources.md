@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 18f1a49b-0a84-ab32-2ae0-645e7f3f6c23
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These resources were compiled by communications lecturer Neal Lerner.

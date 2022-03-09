@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: kary_mullins.jpg
 uid: 7781a25f-6ee2-113f-7cb1-77cbae7e755f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

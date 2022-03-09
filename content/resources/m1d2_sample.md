@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: m1d2_sample.jpg
 uid: b4eb8aaf-6af7-e49f-16de-946707ca3fcb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

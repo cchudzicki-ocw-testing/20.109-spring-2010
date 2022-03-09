@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_lec_m1d5_w.pdf
 uid: cd0ca2a7-8e80-4b4b-9c01-243b5340a8e4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

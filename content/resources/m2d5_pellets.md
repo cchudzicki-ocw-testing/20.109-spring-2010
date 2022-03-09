@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: m2d5_pellets.jpg
 uid: 5a9dee82-83c1-a98d-b29e-9606a4ea08c4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

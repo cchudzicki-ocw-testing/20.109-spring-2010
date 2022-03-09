@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 title: 'Module 1 Assignments: Journal Club'
 uid: 96d78713-6ddb-e72b-2a7f-724d9ac77ed6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Logistics of Paper Sign-Up and Presentation

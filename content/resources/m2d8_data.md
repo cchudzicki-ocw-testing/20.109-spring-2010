@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: m2d8_data.zip
 uid: 5b22bbd0-4218-c4a9-0450-ac4a568b4cb9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

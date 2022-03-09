@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: m3d5_fig1.jpg
 uid: b6f2c166-4679-fb46-0e1d-1e9cd71fac56
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

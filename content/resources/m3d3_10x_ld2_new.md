@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: m3d3_10x_ld2_new.jpg
 uid: 542a8fd0-3bec-bb80-dce3-638448bb5269
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

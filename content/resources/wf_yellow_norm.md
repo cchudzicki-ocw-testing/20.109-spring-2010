@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: wf_yellow_norm.gif
 uid: 7aff51cb-56c2-5776-256c-d9715a791586
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

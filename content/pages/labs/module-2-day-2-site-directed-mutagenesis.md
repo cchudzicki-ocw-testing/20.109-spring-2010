@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 2: Site-Directed Mutagenesis'
 uid: 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \< {{% resource_link 8f241b98-5c89-b697-aa6c-acb092a600c2 "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link 080f3ca5-b66b-7f32-2240-25c3a1fd5acc "Next lab day" "#module_2_index" %}} \>

@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 uid: c902c8ea-545c-743f-443e-440ff96d6753
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \< {{% resource_link ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f "Previous lab day" "#module_2_index" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 2 lab index" "#Module_2:_Protein_Engineering" %}} | {{% resource_link 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee "Next lab day" "#module_2_index" %}} >

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_m1_orl_rubric.pdf
 uid: f131f688-8100-dcb8-8036-7ca7c0eb5f51
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

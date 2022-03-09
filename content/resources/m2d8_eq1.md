@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: m2d8_eq1.jpg
 uid: 601e19ed-2a5b-0371-2a20-719fda14241c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

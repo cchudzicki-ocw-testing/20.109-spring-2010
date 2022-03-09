@@ -7,6 +7,10 @@ parent_type: CourseSection
 parent_uid: a6ec7e7b-eb02-335c-e9f0-c5edead15c65
 title: 'OpenWetWare Use in 20.109 '
 uid: 5039894a-fa2c-382c-824c-e781f889cc0b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 What is OpenWetWare?

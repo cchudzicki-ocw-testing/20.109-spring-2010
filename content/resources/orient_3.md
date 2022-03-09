@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: orient_3.jpg
 uid: 5ca8d173-fd8f-7244-601e-59641b8733c5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: tr_orange_norm.gif
 uid: 1ba945ae-811b-ef5a-11b0-e99d2448d8b2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

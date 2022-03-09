@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_labpre_m3d3.pdf
 uid: c13e01d5-3532-b606-bafe-6ae45b5bbb00
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

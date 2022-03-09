@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 3, Day 5: Transcript-Level Analysis'
 uid: 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 \< {{% resource_link 9f1add66-0448-ffba-794a-48d70e4c97b2 "Previous lab day" %}} | {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 3 lab index" "#Module_3:_Cell-Biomaterial_Engineering" %}} | {{% resource_link f82c52d5-f03d-5172-9e51-338ebfdc2fc4 "Next lab day" %}} >

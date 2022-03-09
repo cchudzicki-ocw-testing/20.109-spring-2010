@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: MIT20_109S10_m2d4_sequence.doc
 uid: 0157b734-c176-9588-be86-0c21c8a74db7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

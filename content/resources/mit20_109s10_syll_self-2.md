@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_syll_self.pdf
 uid: 3db4a798-e252-e816-ea92-d0d85e468a74
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

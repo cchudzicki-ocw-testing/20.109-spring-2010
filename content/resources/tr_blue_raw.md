@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: tr_blue_raw.gif
 uid: f8a3f156-e21c-09f6-2d9c-6a24a184b381
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

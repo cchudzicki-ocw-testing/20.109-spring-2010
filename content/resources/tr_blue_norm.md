@@ -15,4 +15,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: tr_blue_norm.gif
 uid: 215f0913-5acc-71ea-8361-fcddb7d64ad1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

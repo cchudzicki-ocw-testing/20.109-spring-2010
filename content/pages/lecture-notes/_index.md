@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 46b1af53-76fc-7292-a586-d10a6a87cfac
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page presents complete lecture slides for modules 2 and 3, plus several sessions on the 20.109 writing and oral presentation requirements.

@@ -8,6 +8,10 @@ parent_type: CourseSection
 parent_uid: c810141c-0282-3f29-da2a-83f1fe93dcb1
 title: 'Module 1, Day 1: Amplify Aptamer-Encoding DNA'
 uid: a4698e5d-1f6b-3e32-71de-c8f8829f224f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{% resource_link c810141c-0282-3f29-da2a-83f1fe93dcb1 "Module 1 lab index" "#MODUle_1:_RNA_Engineering" %}} | {{% resource_link 52bbd0a9-989c-ea78-b8db-094bc1580980 "Next lab day" %}} >

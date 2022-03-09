@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_labpre_m2d5.pdf
 uid: 9da00fbd-694a-0173-a696-1b9868938b75
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

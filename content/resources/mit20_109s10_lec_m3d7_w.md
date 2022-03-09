@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: MIT20_109S10_lec_m3d7_w.pdf
 uid: 66e0d367-f8ad-04c5-98a1-a40318d22820
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

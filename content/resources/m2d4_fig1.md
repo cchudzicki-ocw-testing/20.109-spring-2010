@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: m2d4_fig1.jpg
 uid: 9044d227-6549-60c6-3b54-0823f2978a7e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
