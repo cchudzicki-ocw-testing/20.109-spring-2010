@@ -90,7 +90,7 @@ Before starting today, make sure to clean your bench area, pipettes, and centrif
 
 During the one hour incubation, you may write in your notebook, leave lab for a snack break, prepare for Part 4 below, or otherwise spend the time as you see fit.
 
-{{< resource 73f27b15-1f57-3bc0-f29c-6fe555434fa8 "Photo of a lab bench with apparatus." >}}
+{{< resource "73f27b15-1f57-3bc0-f29c-6fe555434fa8" >}}
 
 SELEX column set-up
 

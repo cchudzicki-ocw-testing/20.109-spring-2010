@@ -23,7 +23,7 @@ So far you have prepared the DNA encoding both the 6-5 and the 8-12 aptamer frag
 
 What is needed to create RNA from DNA? In PCR, you used a heat-stable DNA polymerase and dNTPs (deoxynucleotide triphosphates) to make your DNA. In an IVT, you will use an RNA polymerase and NTPs (nucleotide triphosphates) instead. The polymerase is derived from the T7 bacteriophage, and requires that the DNA to be copied contains the T7 promoter sequence, or TAA TAC GAC TCA CTA TAG GG. The buffer conditions are also somewhat different (check out the reagent lists at the end of each day), but both contain the important co-factor Mg{{< sup "2+" >}}. Finally, an IVT contains pyrophosphatase, because it has been empirically found to increase efficiency. Pyrophosphate is produced during the IVT, so by Le Chatelier's principle, reaction completion may be improved by removing this product.
 
-{{< resource 695edab6-25d2-9f93-ed6a-747bad3d5b58 "Schematic of the SELEX process: DNA library to RNA library to RNA pool enriched for binders, producing RT-PCR of eluant RNA." >}}
+{{< resource "695edab6-25d2-9f93-ed6a-747bad3d5b58" >}}
 
 Overview of SELEX.
 
