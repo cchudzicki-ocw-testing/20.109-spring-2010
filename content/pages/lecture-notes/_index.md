@@ -115,7 +115,7 @@ Creating your 20.109 presentation (Atissa Banuazizi)
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f1d107af-9eb3-5e79-bcff-57bf23eb47b7 "PDF - 1.6MB" %}})
+({{% resource_link f1d107af-9eb3-5e79-bcff-57bf23eb47b7 "PDF - 1.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +130,7 @@ Introduction
 Rational protein design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 6c13ba00-db29-2d71-53c9-ba338846301d "PDF" %}})
+({{% resource_link 6c13ba00-db29-2d71-53c9-ba338846301d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +145,7 @@ Rational protein design
 Fluorescence and sensors
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f7bb7a06-c161-1b7e-22a7-a5868eeadd1d "PDF - 1.3MB" %}})
+({{% resource_link f7bb7a06-c161-1b7e-22a7-a5868eeadd1d "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Fluorescence and sensors
 Protein expression
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 32723941-4c5a-6e49-76cc-ede9cce3bca4 "PDF" %}})
+({{% resource_link 32723941-4c5a-6e49-76cc-ede9cce3bca4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +175,7 @@ Protein expression
 Review & gene analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 88f5e9a5-b974-6e5e-5797-e2fcecbfc98c "PDF" %}})
+({{% resource_link 88f5e9a5-b974-6e5e-5797-e2fcecbfc98c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +205,7 @@ Purification and protein analysis
 Binding & affinity measurements
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link be09ab92-1991-6e95-4a45-93cfbc443da4 "PDF" %}})
+({{% resource_link be09ab92-1991-6e95-4a45-93cfbc443da4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +220,7 @@ Binding & affinity measurements
 High throughput engineering
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 00229c54-2753-dd3d-a77d-4aadec3e8887 "PDF" %}})
+({{% resource_link 00229c54-2753-dd3d-a77d-4aadec3e8887 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
