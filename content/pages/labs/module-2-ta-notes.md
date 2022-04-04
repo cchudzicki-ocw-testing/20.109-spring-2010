@@ -250,5 +250,4 @@ How it went
 *   M124S a much better parallel sample than S101L (run in S09). The change in affinity and cooperativity was dramatic and consistent across the class.
 *   The only strange issue is that at very low calcium concentrations the data is noisy rather than simply being a high plateau, or even somewhat consistently starts a little low, then has the high plateau, then proceeds as expected.
 
-« Back to [Labs  
-]({{< baseurl >}}/pages/labs#Protein_Engineering)
+« Back to {{% resource_link "c810141c-0282-3f29-da2a-83f1fe93dcb1" "Labs   " "#Protein_Engineering" %}}
