@@ -219,7 +219,7 @@ Day 7: Aptamer Binding Assay
 *   Part 2  
     *   6 μM heme stock, 1.2 mL per group
     *   From ~ 1 M stock solution in DMSO
-    *   Dab a bit of solid into the solvent, then measure at 405 nm (extinction coefficient is 180 mM{{< sup "\\-1" >}} cm{{< sup "\\-1" >}})
+    *   Dab a bit of solid into the solvent, then measure at 405 nm (extinction coefficient is 180 mM{{< sup "\-1" >}} cm{{< sup "\-1" >}})
     *   2x SB, 1.7 mL per group
 
 ### Day of Lab (T/W)

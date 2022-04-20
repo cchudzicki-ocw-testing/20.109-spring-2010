@@ -287,9 +287,9 @@ This is the numerical language of science. Base units that you will most often u
 
 10{{< sup "0" >}}   =  1       = 1/1          = 10{{< sup "0" >}}/1            base unit (-g, -l, -mole…)
 
-10{{< sup "\\-3 " >}} =  0.001   = 1/1000   = 1/10{{< sup "3" >}}           milli (m-)
+10{{< sup "\-3 " >}} =  0.001   = 1/1000   = 1/10{{< sup "3" >}}           milli (m-)
 
-10{{< sup "\\-6" >}}  =  0.000001  = 1/1000000  = 1/10{{< sup "6" >}}  micro (μ-)
+10{{< sup "\-6" >}}  =  0.000001  = 1/1000000  = 1/10{{< sup "6" >}}  micro (μ-)
 
 **Practice problems:**
 
