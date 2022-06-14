@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Module 3 day 7: ZIP file containing raw data for four lab teams, formatted
   as tab-delimited .txt files.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/594f5ac8ea2228c3b0f62fc139c26d2b_m3d7_data.zip
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/594f5ac8ea2228c3b0f62fc139c26d2b_m3d7_data.zip
 file_type: application/zip
 learning_resource_types: []
 ocw_type: OCWFile
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Module 3 day 7: ZIP file containing raw data for four lab teams, formatted as tab-delimited .txt files.

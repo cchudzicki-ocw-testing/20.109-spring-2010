@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/050665fe838e4202dc051dcd0bd9b2ef_link.gif
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/050665fe838e4202dc051dcd0bd9b2ef_link.gif
 file_type: image/gif
 image_metadata:
   caption: ''

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information related to rubric for journal
   club oral presentation. '
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/f131f6888100dcb880367ca7c0eb5f51_MIT20_109S10_m1_orl_rubric.pdf
+file: /courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/f131f6888100dcb880367ca7c0eb5f51_MIT20_109S10_m1_orl_rubric.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information related to rubric for journal club oral presentation. 
