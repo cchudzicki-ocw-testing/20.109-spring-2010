@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment  to write a protein engineering research article.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

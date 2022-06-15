@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to resources on writing and academic integrity.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

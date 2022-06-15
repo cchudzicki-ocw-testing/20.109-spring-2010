@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment to write a paper and present it in class.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

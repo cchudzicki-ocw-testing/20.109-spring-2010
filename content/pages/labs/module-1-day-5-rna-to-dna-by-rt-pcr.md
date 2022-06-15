@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on RNA to DNA by RT-PCR.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

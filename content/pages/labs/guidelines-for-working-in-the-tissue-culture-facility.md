@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines for working in the tissue culture facility.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

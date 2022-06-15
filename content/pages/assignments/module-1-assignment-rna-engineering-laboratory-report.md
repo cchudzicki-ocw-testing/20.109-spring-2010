@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment to create an RNA engineering laboratory report.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on preparing cells for analysis.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

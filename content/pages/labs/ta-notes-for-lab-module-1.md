@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains general preparation notes for the teaching assistants
+  supporting Module 1 labs on RNA engineering.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

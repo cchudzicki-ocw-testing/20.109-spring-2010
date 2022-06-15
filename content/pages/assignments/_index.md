@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the major assignments for the course along with
+  information on daily coursework.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

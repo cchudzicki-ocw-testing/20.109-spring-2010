@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on bacterial amplification of DNA.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

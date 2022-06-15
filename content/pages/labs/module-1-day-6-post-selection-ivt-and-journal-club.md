@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on post-selection IVT.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

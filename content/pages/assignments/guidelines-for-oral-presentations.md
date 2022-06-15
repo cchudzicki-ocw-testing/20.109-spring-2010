@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines for giving oral presentations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

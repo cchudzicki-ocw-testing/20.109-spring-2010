@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment on RNA computational analysis.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

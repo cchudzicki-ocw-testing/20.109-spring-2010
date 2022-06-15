@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines for writing a research proposal and giving an oral presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

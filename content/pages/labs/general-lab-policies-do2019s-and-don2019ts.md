@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides general lab policies for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

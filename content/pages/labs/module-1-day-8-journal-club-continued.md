@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Notes from a class in which students finish their student Journal Club
+  presentations.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

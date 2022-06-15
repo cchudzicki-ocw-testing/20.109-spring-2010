@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignment to write a cell-biomaterial engineering report.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

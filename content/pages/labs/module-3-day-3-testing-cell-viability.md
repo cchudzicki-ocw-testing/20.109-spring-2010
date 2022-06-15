@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on testing cell viability.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

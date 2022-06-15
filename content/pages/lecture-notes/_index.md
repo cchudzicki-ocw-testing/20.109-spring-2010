@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents complete lecture slides for modules 2 and 3, plus
+  several sessions on the writing and oral presentation requirements of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

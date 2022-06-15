@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides an introduction to the lab and its ten stations.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

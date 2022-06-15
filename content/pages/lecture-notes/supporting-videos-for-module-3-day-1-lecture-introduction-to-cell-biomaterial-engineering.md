@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides videos with an introduction to cell-biomaterial
+  engineering
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

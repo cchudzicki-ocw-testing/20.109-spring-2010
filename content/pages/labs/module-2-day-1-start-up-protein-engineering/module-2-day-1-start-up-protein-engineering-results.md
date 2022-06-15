@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lab module on protein engineering.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Module 2, Day 1: Start-Up Protein Engineering'

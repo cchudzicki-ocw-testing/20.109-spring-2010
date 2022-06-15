@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines on maintaining a lab notebook for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

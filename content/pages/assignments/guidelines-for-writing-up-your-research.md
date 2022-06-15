@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines for writing up research for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

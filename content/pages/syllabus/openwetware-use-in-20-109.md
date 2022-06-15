@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on OpenWetWare, a common space for
+  people to share information about protocols, materials, research projects, meetings
+  or anything else that might be of interest to users.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
