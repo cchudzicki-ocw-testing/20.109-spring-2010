@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on prerequisites, how the course varies from term to term, requirements, and the
+  schedule of lecture topics, labs, and key dates for the course.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

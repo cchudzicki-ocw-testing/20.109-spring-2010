@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the three lab modules, information
+  on working in the lab and communicating your work, pre-lab lectures, and lab materials.
 draft: false
 learning_resource_types:
 - Labs
